@@ -1,0 +1,13 @@
+
+
+
+
+
+
+# generate the file "prepare_transcriptome_datasets.py"
+
+the file 'list_of_publications.txt' contains a list of publications. Each publication contain a transcriptome dataset. I have downloaded the dataset from the online sources, so that I will have the data for my downstream transcriptome analysis. Can you loop through each paper and see if I have download the right files from the database? Please get into the corresponding folder to check the actual files and not just the folder names.
+
+My ultimate goal is to transcriptome analysis. Hence not all the files are necessary (e.g., raw sequencing files). Do you recommend remvoing any files to save space?
+
+search the internet for info if you are not clear.

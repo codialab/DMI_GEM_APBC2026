@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(du -sh /home/pty/work/project_MRI/geo_datasets/GSE103726/* /home/pty/work/project_MRI/geo_datasets/GSE17576/* /home/pty/work/project_MRI/geo_datasets/GSE159558/* /home/pty/work/project_MRI/geo_datasets/GSE182686/*)"
+    ]
+  }
+}

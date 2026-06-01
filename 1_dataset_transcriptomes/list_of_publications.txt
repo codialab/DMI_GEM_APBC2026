@@ -1,0 +1,8 @@
+An 8-week high-fat diet induces obesity and insulin resistance with small changes in the muscle transcriptome of C57BL/6J mice
+Skeletal muscle–targeted delivery of Fgf6 protects mice from diet-induced obesity and insulin resistance
+Comparison of fatty acid and gene profiles in skeletal muscle in normal and obese C57BL/6J mice before and after blunt muscle injury
+Ablation of USP21 in skeletal muscle promotes oxidative fibre phenotype, inhibiting obesity and type 2 diabetes
+The endothelial Dll4-muscular Notch2 axis regulates skeletal muscle mass
+The TAS1R2 G-protein-coupled receptor is an ambient glucose sensor in skeletal muscle that regulates NAD homeostasis and mitochondrial capacity
+Effects of defined voluntary running distances coupled with high-fat diet consumption on the skeletal muscle transcriptome of male mice
+Dynamical network biomarker analysis using multi-organ RNA sequencing in metabolic syndrome model mice    # GSE305719
