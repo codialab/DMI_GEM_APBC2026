@@ -2,38 +2,22 @@
 """
 prepare_transcriptome_datasets.py
 
-Reads, normalizes, and annotates seven skeletal muscle transcriptome datasets
+Reads, normalizes, and annotates selected skeletal muscle transcriptome datasets
 for downstream gene / pathway enrichment analysis.
 
 Datasets
 --------
 GSE17576  : Affymetrix microarray  – HFD obesity study
             De Wilde et al. (2009) J Nutrigenet Nutrigenomics
-GSE103726 : Affymetrix microarray  – blunt muscle injury study
-            Pratt et al. (2018) Front Physiol
-GSE159558 : RNA-seq (Illumina NovaSeq 6000) – USP21 muscle KO study
-            Kim et al. (2021) J Cachexia Sarcopenia Muscle
-GSE182686 : RNA-seq (Illumina HiSeq 2500)   – FGF6 muscle delivery study
-            Xu et al. (2021) JCI Insight
-GSE161693 : RNA-seq (Illumina NovaSeq 6000) – Notch2 muscle KO study
-            Fujimaki et al. (2022) eLife
-GSE241830 : Affymetrix Clariom S microarray – TAS1R2 ribosomal pulldown study
-            Bhaskaran et al. (2024)
-GSE275818 : RNA-seq (Illumina HiSeq 4000)   – Running distance + HFD study
-            Casperson et al. (2024)
 GSE305719 : RNA-seq (Illumina)              – Multi-organ HFD time course
             Oku et al. (2025) NOLTA – Dynamical network biomarker analysis
 
 Normalization strategy
 ----------------------
-Microarray  : authors' GC-RMA (GSE17576) / RMA (GSE103726) values are read
+Microarray  : authors' GC-RMA (GSE17576) values are read
               from the series matrix file (already normalized + quantile-
               normalized by authors). Values are in LINEAR scale → we apply
               log2(x + 1) to put them on a log scale.
-
-              GSE241830 uses SST-RMA (Transcriptome Analysis Console 4.0),
-              which already outputs log2-scale values — no further transform
-              is applied.
 
 RNA-seq     : raw integer counts → variance-stabilizing transformation (VST)
               via PyDESeq2. VST produces log2-scale, library-size-normalised
@@ -42,8 +26,8 @@ RNA-seq     : raw integer counts → variance-stabilizing transformation (VST)
 
 Outputs (written to each dataset's folder)
 ------------------------------------------
-  normalized_expression.csv.gz  – genes × samples, normalized values
-  sample_annotation.csv.gz      – one row per sample with condition labels
+  normalized_expression.csv.xz  – genes × samples, normalized values
+  sample_annotation.csv.xz      – one row per sample with condition labels
 
 Usage
 -----
@@ -87,58 +71,6 @@ DATASETS = {
         "publication": (
             "An 8-week high-fat diet induces obesity and insulin resistance "
             "with small changes in the muscle transcriptome of C57BL/6J mice"
-        ),
-    },
-    "GSE103726": {
-        "type": "microarray",
-        "series_matrix": "GSE103726_series_matrix.txt.gz",
-        "publication": (
-            "Comparison of fatty acid and gene profiles in skeletal muscle "
-            "in normal and obese C57BL/6J mice before and after blunt muscle injury"
-        ),
-    },
-    "GSE159558": {
-        "type": "rnaseq",
-        "counts_file": "GSE159558_Expression_Profile.mm10.gene.txt.gz",
-        "publication": (
-            "Ablation of USP21 in skeletal muscle promotes oxidative fibre "
-            "phenotype, inhibiting obesity and type 2 diabetes"
-        ),
-    },
-    "GSE182686": {
-        "type": "rnaseq",
-        "counts_file": "GSE182686_Raw_gene_counts_matrix.txt.gz",
-        "publication": (
-            "Skeletal muscle-targeted delivery of Fgf6 protects mice from "
-            "diet-induced obesity and insulin resistance"
-        ),
-    },
-    "GSE161693": {
-        "type": "rnaseq",
-        "suppl_files": [
-            "GSE161693_WT_Control-Unloading.txt.gz",
-            "GSE161693_WT_Control-Diabetes.txt.gz",
-            "GSE161693_N2-mKO_Control-Unloading.txt.gz",
-            "GSE161693_N2-mKO_Control-Diabetes.txt.gz",
-        ],
-        "publication": (
-            "The endothelial Dll4-muscular Notch2 axis regulates skeletal muscle mass"
-        ),
-    },
-    "GSE241830": {
-        "type": "microarray",
-        "series_matrix": "GSE241830_series_matrix.txt.gz",
-        "publication": (
-            "The TAS1R2 G-protein-coupled receptor is an ambient glucose sensor "
-            "in skeletal muscle that regulates NAD homeostasis and mitochondrial capacity"
-        ),
-    },
-    "GSE275818": {
-        "type": "rnaseq",
-        "counts_file": "GSE275818_Casperson_gene_count.txt.gz",
-        "publication": (
-            "Effects of defined voluntary running distances coupled with "
-            "high-fat diet consumption on the skeletal muscle transcriptome of male mice"
         ),
     },
     "GSE305719": {
@@ -1157,12 +1089,6 @@ def process_gse305719(folder, config):
 
 PROCESSORS = {
     "GSE17576":  process_gse17576,
-    "GSE103726": process_gse103726,
-    "GSE159558": process_gse159558,
-    "GSE182686": process_gse182686,
-    "GSE161693": process_gse161693,
-    "GSE241830": process_gse241830,
-    "GSE275818": process_gse275818,
     "GSE305719": process_gse305719,
 }
 
@@ -1184,17 +1110,18 @@ def process_dataset(gse_id, config):
     expr = map_to_mgi_symbols(expr, gse_id, folder)
 
     # ── Save outputs ──────────────────────────────────────────────────────
-    expr_path = os.path.join(folder, "normalized_expression.csv.gz")
-    ann_path  = os.path.join(folder, "sample_annotation.csv.gz")
+    expr_path = os.path.join(folder, "normalized_expression.csv.xz")
+    ann_path  = os.path.join(folder, "sample_annotation.csv.xz")
+    compression = {"method": "xz", "preset": 9}
 
-    expr.to_csv(expr_path, compression="gzip")
-    sample_ann.to_csv(ann_path, compression="gzip")
+    expr.to_csv(expr_path, compression=compression)
+    sample_ann.to_csv(ann_path, compression=compression)
 
     log.info(
-        f"    Saved: normalized_expression.csv.gz  "
+        f"    Saved: normalized_expression.csv.xz  "
         f"({expr.shape[0]:,} genes × {expr.shape[1]} samples)"
     )
-    log.info(f"    Saved: sample_annotation.csv.gz")
+    log.info("    Saved: sample_annotation.csv.xz")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -1214,11 +1141,11 @@ def main():
 
     log.info("")
     log.info("=" * 60)
-    log.info("All datasets processed successfully.")
+    log.info("Selected datasets processed successfully.")
     log.info("")
     log.info("Output files per folder:")
-    log.info("  normalized_expression.csv.gz  — log2-scale, ready for enrichment")
-    log.info("  sample_annotation.csv.gz      — condition labels per sample")
+    log.info("  normalized_expression.csv.xz  — log2-scale, ready for enrichment")
+    log.info("  sample_annotation.csv.xz      — condition labels per sample")
 
 
 if __name__ == "__main__":
