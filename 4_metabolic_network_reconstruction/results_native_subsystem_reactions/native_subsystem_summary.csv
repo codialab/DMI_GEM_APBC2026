@@ -1,0 +1,100 @@
+subsystem,reaction_count,reactions_with_gene_rule,fraction_with_gene_rule
+"Transport, extracellular",1940,1527,0.7871134020618556
+Exchange/demand reaction,997,2,0.0020060180541624875
+Fatty acid oxidation,914,838,0.9168490153172867
+Drug metabolism,331,160,0.48338368580060426
+"Transport, mitochondrial",331,230,0.6948640483383686
+Cholesterol metabolism,233,230,0.9871244635193133
+Fatty acid synthesis,220,189,0.8590909090909091
+"Transport, endoplasmic reticular",155,34,0.21935483870967742
+Glycerophospholipid metabolism,145,141,0.9724137931034482
+Nucleotide interconversion,144,138,0.9583333333333334
+Bile acid synthesis,134,126,0.9402985074626866
+Miscellaneous,128,108,0.84375
+"Transport, peroxisomal",128,36,0.28125
+Sphingolipid metabolism,122,116,0.9508196721311475
+"Transport, lysosomal",90,10,0.1111111111111111
+Keratan sulfate degradation,76,74,0.9736842105263158
+"Transport, golgi apparatus",70,14,0.2
+Glycosphingolipid metabolism,59,52,0.8813559322033898
+Peptide metabolism,55,0,0.0
+Tyrosine metabolism,55,43,0.7818181818181819
+Eicosanoid metabolism,53,40,0.7547169811320755
+Inositol phosphate metabolism,47,44,0.9361702127659575
+Folate metabolism,46,46,1.0
+"Transport, nuclear",45,2,0.044444444444444446
+Chondroitin sulfate degradation,44,34,0.7727272727272727
+Chondroitin synthesis,44,42,0.9545454545454546
+Glycolysis/gluconeogenesis,42,42,1.0
+Steroid metabolism,41,39,0.9512195121951219
+Starch and sucrose metabolism,38,36,0.9473684210526315
+Phosphatidylinositol phosphate metabolism,37,33,0.8918918918918919
+Tryptophan metabolism,35,28,0.8
+Aminosugar metabolism,33,27,0.8181818181818182
+"Valine, leucine, and isoleucine metabolism",31,30,0.967741935483871
+Arginine and proline metabolism,30,24,0.8
+Blood group synthesis,29,27,0.9310344827586207
+Methionine and cysteine metabolism,29,25,0.8620689655172413
+Arachidonic acid metabolism,28,24,0.8571428571428571
+Pentose phosphate pathway,28,27,0.9642857142857143
+Pyruvate metabolism,28,25,0.8928571428571429
+"Glycine, serine, alanine, and threonine metabolism",27,25,0.9259259259259259
+Heparan sulfate degradation,27,18,0.6666666666666666
+NAD metabolism,24,21,0.875
+Purine catabolism,24,22,0.9166666666666666
+Pyrimidine catabolism,24,23,0.9583333333333334
+Urea cycle,24,17,0.7083333333333334
+Fructose and mannose metabolism,22,21,0.9545454545454546
+Keratan sulfate synthesis,22,22,1.0
+Phenylalanine metabolism,21,15,0.7142857142857143
+Citric acid cycle,19,19,1.0
+Heme synthesis,18,11,0.6111111111111112
+Pyrimidine synthesis,18,15,0.8333333333333334
+N-glycan synthesis,17,4,0.23529411764705882
+Vitamin A metabolism,15,12,0.8
+Androgen and estrogen synthesis and metabolism,14,9,0.6428571428571429
+Tetrahydrobiopterin metabolism,14,13,0.9285714285714286
+Glutathione metabolism,13,13,1.0
+O-glycan metabolism,13,12,0.9230769230769231
+Biotin metabolism,12,8,0.6666666666666666
+CoA synthesis,12,12,1.0
+N-glycan degradation,12,10,0.8333333333333334
+Propanoate metabolism,12,9,0.75
+Purine synthesis,12,11,0.9166666666666666
+Ubiquinone synthesis,12,9,0.75
+Lysine metabolism,11,10,0.9090909090909091
+Galactose metabolism,10,10,1.0
+Glutamate metabolism,10,10,1.0
+Glyoxylate and dicarboxylate metabolism,10,8,0.8
+Oxidative phosphorylation,10,9,0.9
+Vitamin B6 metabolism,10,10,1.0
+Alanine and aspartate metabolism,8,8,1.0
+Cytochrome metabolism,8,8,1.0
+Linoleate metabolism,8,3,0.375
+Vitamin B2 metabolism,8,7,0.875
+Beta-Alanine metabolism,7,7,1.0
+Leukotriene metabolism,7,7,1.0
+ROS detoxification,7,6,0.8571428571428571
+Taurine and hypotaurine metabolism,7,5,0.7142857142857143
+Triacylglycerol synthesis,7,7,1.0
+Histidine metabolism,6,6,1.0
+Hyaluronan metabolism,5,5,1.0
+Squalene and cholesterol synthesis,5,5,1.0
+C5-branched dibasic acid metabolism,4,4,1.0
+N-glycan metabolism,4,3,0.75
+Vitamin D metabolism,4,2,0.5
+unassigned,4,1,0.25
+Butanoate metabolism,3,3,1.0
+CoA catabolism,3,2,0.6666666666666666
+Heme degradation,3,2,0.6666666666666666
+Limonene and pinene degradation,3,3,1.0
+Nucleotide salvage pathway,3,3,1.0
+Thiamine metabolism,3,2,0.6666666666666666
+Vitamin C metabolism,3,2,0.6666666666666666
+Protein formation,2,0,0.0
+R group synthesis,2,0,0.0
+D-alanine metabolism,1,1,1.0
+Lipoate metabolism,1,1,1.0
+Nucleotide metabolism,1,1,1.0
+Nucleotide sugar metabolism,1,1,1.0
+Vitamin B12 metabolism,1,0,0.0

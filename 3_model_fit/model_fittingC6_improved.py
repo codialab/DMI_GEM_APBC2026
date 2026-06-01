@@ -63,11 +63,12 @@ try:
 except NameError:
     OUTPUT_DIR = Path(os.getcwd())
 
-# C6 lives in a subdirectory so outputs can be kept separate from B6. Shared
-# inputs and ROI helpers remain one directory up.
-PARENT_DATA_DIR = OUTPUT_DIR.parent
+# C6 lives in a subdirectory so outputs can be kept separate from B6. The
+# extracted metabolite inputs and ROI helpers now live in ../2_extract_DMI_met.
+PROJECT_DIR = OUTPUT_DIR.parent
+EXTRACT_DIR = PROJECT_DIR / "2_extract_DMI_met"
 DATA_DIR = OUTPUT_DIR
-sys.path.insert(0, str(PARENT_DATA_DIR))
+sys.path.insert(0, str(EXTRACT_DIR))
 from lib_roi_masks import NX, NY, f_get_roi_masks
 
 SCAN_DURATION_SEC = 280
@@ -235,7 +236,9 @@ OX_FEASIBILITY_THRESHOLD = 2.0
 
 
 def load_experiment_data():
-    data_path = PARENT_DATA_DIR / "data_tissue_vals_model_fitting.joblib.xz"
+    data_path = EXTRACT_DIR / "data_tissue_vals_model_fitting.joblib.xz"
+    if not data_path.exists():
+        raise FileNotFoundError(f"Missing experiment data file: {data_path}")
     data = joblib.load(data_path)
     hash_mouseID_2_df_tissue_val = data[0]
     hash_mouseID2group = data[1]

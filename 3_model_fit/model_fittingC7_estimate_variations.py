@@ -80,6 +80,7 @@ from __future__ import annotations
 import argparse
 import copy
 import math
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable
@@ -87,6 +88,10 @@ from typing import Any, Iterable
 import joblib
 import numpy as np
 import pandas as pd
+
+HERE = Path(__file__).resolve().parent
+if str(HERE) not in sys.path:
+    sys.path.insert(0, str(HERE))
 
 import model_fittingC6_improved as mf
 

@@ -1,0 +1,1564 @@
+id,name,lb,ub
+EX_10fthf5glu_e,10-formyltetrahydrofolate-[Glu](5) exchange,-1000.0,1000.0
+EX_10fthf6glu_e,10-formyltetrahydrofolate-[Glu](6) exchange,-1000.0,1000.0
+EX_10fthf7glu_e,10-formyltetrahydrofolate-[Glu](7) exchange,-1000.0,1000.0
+EX_10fthf_e,10-Formyltetrahydrofolate exchange,-1000.0,1000.0
+EX_11_cis_retfa_e,Fatty acid 11-cis-retinol exchange,-1000.0,1000.0
+EX_11docrtsl_e,Exchange of 11-Deoxycortisol,-1000.0,1000.0
+EX_11docrtstrn_e,Exchange of 11-Deoxycorticosterone,-1000.0,1000.0
+EX_12HPET_e,12(S)-HPETE(1-) exchange,-1000.0,1000.0
+EX_12dgr120_e,"Exchange of 1, 2-Diacyl-Sn-Glycerol (Didodecanoyl, N-C12:0)",-1000.0,1000.0
+EX_12dhchol_e,EX 12dhchol(e),-1000.0,1000.0
+EX_12harachd_e,Exchange of 12 Hydroxy Arachidonic Acid,-1000.0,1000.0
+EX_12htacr_e,Exchange reaction for 12-hydroxy tacrolimus in intestinal lumen,-1000.0,1000.0
+EX_12ppd__R_e,"(R)-Propane-1,2-diol exchange",-1000.0,1000.0
+EX_1331tacr_e,"Exchange reaction for 13,31-O-Didesmethyl-tacrolimus in hepatic vein",-1000.0,1000.0
+EX_13_cis_retn_e,Exchange of 13-Cis-Retinoate,-1000.0,1000.0
+EX_13_cis_retnglc_e,13-cis-retinoyl glucuronide exchange,-1000.0,1000.0
+EX_13dampp_e,Exchange of Trimethylenediaminium,-1000.0,1000.0
+EX_13dmt_e,Exchange reaction for 13-O-desmethyl tacrolimus in intestinal lumen,-1000.0,1000.0
+EX_14hmdz_e,"Exchange reaction for 1,4-Dihydroxy-midazolam in hepatic vein",-1000.0,1000.0
+EX_1513tacr_e,"Exchange reaction for 13,15-O-didesmethyl tacrolimus in intestinal lumen",-1000.0,1000.0
+EX_1531tacr_e,"Exchange reaction for 15, 31-O-Didesmethyl-tacrolimus in hepatic vein",-1000.0,1000.0
+EX_15HPET_e,Exchange of 15(S)-HPETE,-1000.0,1000.0
+EX_15dmt_e,Exchange reaction for 15-O-desmethyl tacrolimus in intestinal lumen,-1000.0,1000.0
+EX_15kprostgf2_e,Exchange of 15-Keto-Prostaglandin F2A,-1000.0,1000.0
+EX_17ahprgnlone_e,Exchange of 17Alpha-Hydroxypregnenolone,-1000.0,1000.0
+EX_17ahprgstrn_e,Exchange of 17Alpha-Hydroxyprogesterone,-1000.0,1000.0
+EX_18harachd_e,Exchange of 18 Hydroxy Arachidonic Acid,-1000.0,1000.0
+EX_1a25dhvitd2_e,EX 1a25dhvitd2(e),-1000.0,1000.0
+EX_1a25dhvitd3_e,Exchange of Calcitriol,-1000.0,1000.0
+EX_1glyc_hs_e,1 acyl phosphoglycerol exchange,-1000.0,1000.0
+EX_1hibup__S_e,Exchange reaction for 1-hydroxy-ibuprofen in hepatic vein,-1000.0,1000.0
+EX_1hibupglu__S_e,Exchange reaction for 1-hydroxy S-ibuprofen-glucuronide in hepatic vein,-1000.0,1000.0
+EX_1hmdgluc_e,Exchange reaction for 1-OH-midazolam-glucuronide in portal blood,-1000.0,1000.0
+EX_1mncam_e,1-Methylnicotinamide exchange,-1000.0,1000.0
+EX_1ohmdz_e,Exchange reaction for 1-OH-midazolam in portal blood,-1000.0,1000.0
+EX_21hprgnlone_e,Exchange of 21-Hydroxypregnenolone,-1000.0,1000.0
+EX_23cump_e,"2',3'-Cyclic UMP exchange",-1000.0,1000.0
+EX_2425dhvitd2_e,"24R,25-Dihyoxyvitamin D2 exchange",-1000.0,1000.0
+EX_2425dhvitd3_e,"24R,25-Dihydroxyvitamin D3 exchange",-1000.0,1000.0
+EX_24nph_e,"2,4 dihydroxy nitrophenol exchange",-1000.0,1000.0
+EX_25hvitd2_e,25-Hydroxyvitamin D2 exchange,-1000.0,1000.0
+EX_25hvitd3_e,25-Hydroxyvitamin D3 exchange,-1000.0,1000.0
+EX_2h3mv_e,Exchange of 2-Hydroxy-3-Methyl-Valerate,-1000.0,1000.0
+EX_2hatvacid_e,Exchange reaction for 2-hydroxy-atorvastatin-acid in portal blood,-1000.0,1000.0
+EX_2hatvacidgluc_e,Exchange reaction for 2-hydroxy-atorvastatin-acyl-glucuronide in bile,-1000.0,1000.0
+EX_2hatvlac_e,Exchange reaction for 2-hydroxy-atorvastatin-lactone in portal blood,-1000.0,1000.0
+EX_2hatvlacgluc_e,Exchange reaction for 2-hydroxy-atorvastatin-lactone-glucuronide in bile,-1000.0,1000.0
+EX_2hb_e,2 Hydroxybutyrate exchange,-1000.0,1000.0
+EX_2hibup__R_e,Exchange reaction for R-2-hydroxy-ibuprofen in hepatic vein,-1000.0,1000.0
+EX_2hibup__S_e,Exchange reaction for S-2-hydroxy-ibuprofen in hepatic vein,-1000.0,1000.0
+EX_2hibupglu__S_e,Exchange reaction for 2-hydroxy S-ibuprofen-glucuronide in hepatic vein,-1000.0,1000.0
+EX_2hiv_e,Exchange of 2-Hydroxy-Isovalerate,-1000.0,1000.0
+EX_2hyoxplac_e,2-Hydroxyphenylacetate,-1000.0,1000.0
+EX_2m3hbu_e,Exchange of 2-Methyl-3-Hydroxy-Butyrate,-1000.0,1000.0
+EX_2m3hvac_e,Exchange of 2-Methyl-3-Hydroxy-Valerate,-1000.0,1000.0
+EX_2mcit_e,2-Methylcitrate exchange,-1000.0,1000.0
+EX_2obut_e,2-Oxobutanoate exchange,-1000.0,1000.0
+EX_2oxoadp_e,Exchange of 2-Oxoadipate,-1000.0,1000.0
+EX_2pg_e,D Glycerate 2 phosphate exchange,-1000.0,1000.0
+EX_31dmt_e,Exchange reaction for 31-O-desmethyl tacrolimus in intestinal lumen,-1000.0,1000.0
+EX_34dhoxmand_e,"Exchange of 3,4-Dihydroxymandelate",-1000.0,1000.0
+EX_34dhoxpeg_e,"3,4-Dihydroxyphenylethyleneglycol exchange",-1000.0,1000.0
+EX_34dhpe_e,"Exchange of 3, 4-Dihydroxyphenylethanol",-1000.0,1000.0
+EX_34dhpha_e,Exchange of 34Dhpha,-1000.0,1000.0
+EX_34dhphe_e,"3,4-Dihydroxy-L-phenylalanine exchange",-1000.0,1000.0
+EX_34hpl_e,Exchange of 3- (4-Hydroxyphenyl)Lactate,-1000.0,1000.0
+EX_34hpp_e,Exchange of 3-(4-hydroxyphenyl)pyruvate,-1000.0,1000.0
+EX_35cgmp_e,"3',5'-Cyclic GMP exchange",-1000.0,1000.0
+EX_35dhpvs_e,Exchange reaction for 3-alpha-5-beta-dihydroxy pravastatin in portal blood,-1000.0,1000.0
+EX_35diotyr_e,"Exchange of 3, 5-Diiodo-L-Tyrosine",-1000.0,1000.0
+EX_35dsmv_e,"Exchange reaction for 3,5-dihydrodiol-simvastatin-lactone form in bile",-1000.0,1000.0
+EX_3aib__D_e,D-3-Amino-isobutanoate exchange,-1000.0,1000.0
+EX_3aib_e,L-3-Amino-isobutanoate exchange,-1000.0,1000.0
+EX_3bcrn_e,Exchange reaction for 3-hydroxy butyryl carnitine,-1000.0,1000.0
+EX_3ddcrn_e,Exchange reaction for 3-hydroxydodecanoyl carnitine,-1000.0,1000.0
+EX_3deccrn_e,Exchange reaction for 3-hydroxydecanoyl carnitine,-1000.0,1000.0
+EX_3dhcdchol_e,EX 3dhcdchol(e),-1000.0,1000.0
+EX_3dhchol_e,EX 3dhchol(e),-1000.0,1000.0
+EX_3dhdchol_e,EX 3dhdchol(e),-1000.0,1000.0
+EX_3dhlchol_e,EX 3dhlchol(e),-1000.0,1000.0
+EX_3h3mglt_e,Exchange of 3-Hydroxy-3-Methyl-Glutarate,-1000.0,1000.0
+EX_3hadpac_e,Exchange of 3-Hydroxy-Adipate,-1000.0,1000.0
+EX_3hanthrn_e,Exchange,-1000.0,1000.0
+EX_3hdececrn_e,Exchange of 3-Hydroxyhexadecenoyl Carnitine,-1000.0,1000.0
+EX_3hexdcrn_e,Exchange reaction for 3-hydroxyhexadecanoyl carnitine,-1000.0,1000.0
+EX_3hibup__R_e,Exchange reaction for R-3-hydroxy-ibuprofen in hepatic vein,-1000.0,1000.0
+EX_3hibup__S_e,Exchange reaction for S-3-hydroxy-ibuprofen in hepatic vein,-1000.0,1000.0
+EX_3hibupglu__S_e,Exchange reaction for 3-hydroxy S-ibuprofen-glucuronide in hepatic vein,-1000.0,1000.0
+EX_3hivac_e,Exchange of 3-Hydroxy-Isovalerate,-1000.0,1000.0
+EX_3hlvstacid_e,Exchange reaction for 3-hydroxy-lovastatin acid form in bile,-1000.0,1000.0
+EX_3hmp_e,Exchange of 3-Hydroxy-2-Methylpropanoate,-1000.0,1000.0
+EX_3hpp_e,3-Hydroxypropanoate exchange,-1000.0,1000.0
+EX_3hpppn_e,3-(3-hydroxy-phenyl)propionate exchange,-1000.0,1000.0
+EX_3hpppnohgluc_e,Exchange of 3- (3-Hydroxy-Phenyl)Propionate Hydroxy Derivative Glucuronide,-1000.0,1000.0
+EX_3hpvs_e,Exchange reaction for 3-hydroxy pravastatin in portal blood,-1000.0,1000.0
+EX_3hpvstet_e,Exchange reaction of 3-S-hydroxy-pravastatin-tetranor in hepatic vein,-1000.0,1000.0
+EX_3hsmvacid_e,Exchange reaction for 3-hydroxy-simvastatin-acid form form in bile,-1000.0,1000.0
+EX_3ispvs_e,Exchange reaction for 3-alpha-iso-pravastatin in portal blood,-1000.0,1000.0
+EX_3ityr__L_e,Exchange of 3-Iodo-L-Tyrosine,-1000.0,1000.0
+EX_3ivcrn_e,Exchange of 3-Hydroxy-Isovaleryl Carnitine,-1000.0,1000.0
+EX_3mglutac_e,Exchange of 3-Methyl-Glutaconate,-1000.0,1000.0
+EX_3mglutr_e,Exchange of 3-Methyl-Glutarate,-1000.0,1000.0
+EX_3mhis_e,Exchange of Methyl-Histidine,-1000.0,1000.0
+EX_3mlda_e,3-Methylimidazoleacetic acid exchange,-1000.0,1000.0
+EX_3mob_e,Exchange of 3-methyl-2-oxobutanoate,-1000.0,1000.0
+EX_3mop_e,3mop exchange,-1000.0,1000.0
+EX_3mox4hoxm_e,Exchange of 3-Methoxy-4-Hydroxymandelate,-1000.0,1000.0
+EX_3moxtyr_e,3-Methoxytyramine exchange,-1000.0,1000.0
+EX_3mtp_e,Exchange of 3-Methyl-Thio-Propionate,-1000.0,1000.0
+EX_3octdec2crn_e,Exchange of 3-Hydroxyoctadecadienoyl Carnitine,-1000.0,1000.0
+EX_3octdeccrn_e,Exchange of 3-Hydroxyoctadecanoyl Carnitine,-1000.0,1000.0
+EX_3octdece1crn_e,Exchange of 3-Hydroxy-Octadecenoyl Carnitine,-1000.0,1000.0
+EX_3ohacmp_e,Exchange reaction for 3-OH-acetaminophen in hepatic vein,-1000.0,1000.0
+EX_3ohglutac_e,Excahnge of 3-Hydroxy-Glutarate,-1000.0,1000.0
+EX_3ohsebac_e,Exchange of 3-Hydroxy-Sebacic Acid,-1000.0,1000.0
+EX_3ohsubac_e,Exchange of 3-Hydoxy-Suberic Acid,-1000.0,1000.0
+EX_3pg_e,3 Phospho D glycerate exchange,-1000.0,1000.0
+EX_3tdcrn_e,Exchange reaction for 3-hydroxy-tetradecanoyl carnitine,-1000.0,1000.0
+EX_3tetd7ecoacrn_e,Exchange of 3-Hydroxy Tetradecenoyl-7-Carnitine,-1000.0,1000.0
+EX_3thexddcoacrn_e,"Exchange of 3-Hydroxy Trans7, 10-Hexadecadienoyl Carnitine",-1000.0,1000.0
+EX_3ttetddcoacrn_e,"Exchange of 3-Hydroxy Trans5, 8Tetradecadienoyl Carnitine",-1000.0,1000.0
+EX_3uib_e,Exchange of 3-Ureidoisobutyrate,-1000.0,1000.0
+EX_3ump_e,3'-UMP exchange,-1000.0,1000.0
+EX_4aabutn_e,Exchange of 4-Acetamidobutanoate,-1000.0,1000.0
+EX_4abut_e,4-Aminobutanoate exchange,-1000.0,1000.0
+EX_4abutn_e,Exchange of 4-ammoniobutanal,-1000.0,1000.0
+EX_4bhglz_e,Exchange reaction for 4-beta-OH-gliclazide in hepatic vein,-1000.0,1000.0
+EX_4glu56dihdind_e,"Exchange of 4-S-Glutathionyl-5, 6-Dihydroxyindoline",-1000.0,1000.0
+EX_4hatvacid_e,Exchange reaction for 4-hydroxy-atorvastatin-acid in portal blood,-1000.0,1000.0
+EX_4hatvlac_e,Exchange reaction for 4-hydroxy-atorvastatin-lactone in portal blood,-1000.0,1000.0
+EX_4hbz_e,EX 4hbz LPAREN e RPAREN,-1000.0,1000.0
+EX_4hdebrisoquine_e,4 hydroxy debrisoquine exchange,-1000.0,1000.0
+EX_4hmdgluc_e,Exchange reaction for 4-OH-midazolam-glucuronide in hepatic vein,-1000.0,1000.0
+EX_4hphac_e,4 hydroxyphenylacetate exchange,-1000.0,1000.0
+EX_4hpro_LT_e,Exchange reaction for hydroxy proline,-1000.0,1000.0
+EX_4mop_e,Exchange of 4-methyl-2-oxopentanoate,-1000.0,1000.0
+EX_4mptnl_e,4-methylpentanal Exchange,-1000.0,1000.0
+EX_4mtolbutamide_e,4 hydroxy tolbutamide exchange,-1000.0,1000.0
+EX_4nph_e,4-Nitrophenol exchange,-1000.0,1000.0
+EX_4nphsf_e,4-Nitrophenyl sulfate exchange,-1000.0,1000.0
+EX_4ohbut_e,Exchange of 4-Hydroxy-Butyrate,-1000.0,1000.0
+EX_4ohmdz_e,Exchange reaction for 4-OH-midazolam in hepatic vein,-1000.0,1000.0
+EX_4pyrdx_e,4-Pyridoxate exchange,-1000.0,1000.0
+EX_4tmeabutn_e,Exchange of 4- (Trimethylammonio)Butanoate,-1000.0,1000.0
+EX_56dhpvs_e,"Exchange reaction of 3-keto-5,6,-dihydroxy-pravastatin in hepatic vein",-1000.0,1000.0
+EX_56dthm_e,"Exchange of 5, 6-Dihydrothymine",-1000.0,1000.0
+EX_56dura_e,"Exchange of 5, 6-Dihydrouracil",-1000.0,1000.0
+EX_56eppvs_e,"Exchange reaction of 5,6-epoxy-3-alpha-iso-pravastatin in hepatic vein",-1000.0,1000.0
+EX_5HPET_e,Exchange of 5(S)-HPETE,-1000.0,1000.0
+EX_5a2opntn_e,Exchange of 5-Amino-2-Oxopentanoic Acid,-1000.0,1000.0
+EX_5adtststerone_e,5alpha-Dihydrotestosterone exchange,-1000.0,1000.0
+EX_5adtststeroneglc_e,5alpha-Dihydrotestosterone glucuronide exchange,-1000.0,1000.0
+EX_5adtststerones_e,5alpha-Dihydrotestosterone sulfate exchange,-1000.0,1000.0
+EX_5aop_e,5 Amino 4 oxopentanoate exchange,-1000.0,1000.0
+EX_5cysdopa_e,Exchange of 5-S-Cysteinyldopamine,-1000.0,1000.0
+EX_5cysgly34dhphe_e,Exchange of 5-S-Cysteinylglycine Dopa,-1000.0,1000.0
+EX_5dhf_e,Pentaglutamyl folate (DHF) exchange,-1000.0,1000.0
+EX_5eipenc_e,"Exchange of 5, 8, 11, 14, 17-Eicosapentenoic Acid",-1000.0,1000.0
+EX_5fthf_e,5-Formyltetrahydrofolate exchange,-1000.0,1000.0
+EX_5g2oxpt_e,Exchange of 5-Guanidino-2-Oxopentanoic Acid,-1000.0,1000.0
+EX_5homeprazole_e,5 hydroxy omeprazole exchange,-1000.0,1000.0
+EX_5hoxindoa_e,Exchange of 5-Hydroxyindoleacetate,-1000.0,1000.0
+EX_5htrp_e,5-Hydroxy-L-tryptophan exchange,-1000.0,1000.0
+EX_5mta_e,Exchange of 5-S-methyl-5-thioadenosine,-1000.0,1000.0
+EX_5mthf_e,5-Methyltetrahydrofolate exchange,-1000.0,1000.0
+EX_5ohfvs_e,Exchnage reaction for 5-hydroxy-fluvastatin in bile,-1000.0,1000.0
+EX_5ohfvsglu_e,Exchnage reaction for 5-hydroxy-fluvastatin-glucuronide in hepatic vein,-1000.0,1000.0
+EX_5ohhexa_e,Exchange of 5-Hydroxy-Hexanoate,-1000.0,1000.0
+EX_5oxpro_e,Exchange of 5-oxoprolinate,-1000.0,1000.0
+EX_5thf_e,Pentaglutamyl folate (THF) exchange,-1000.0,1000.0
+EX_6ahglz_e,Exchange reaction for 6-alpha-OH-gliclazide in hepatic vein,-1000.0,1000.0
+EX_6bhglz_e,Exchange reaction for 6-beta-OH-gliclazide in hepatic vein,-1000.0,1000.0
+EX_6bhglzglc_e,Exchange reaction for 6-beta-OH-gliclazide-glucuronide in hepatic vein,-1000.0,1000.0
+EX_6csmvacid_e,Exchange reaction for 6-beta-carboxy-simvastatin-acid form in bile,-1000.0,1000.0
+EX_6dhf_e,Haxglutamyl folate (DHF) exchange,-1000.0,1000.0
+EX_6epvs_e,Exchange reaction for 6-epi-pravastatin in portal blood,-1000.0,1000.0
+EX_6hlvst_e,Exchange reaction for 6-beta-hydroxy-lovastatin in portal blood,-1000.0,1000.0
+EX_6hmsmvacid_e,Exchange reaction for6-beta-hydroxy-methyl-simvastatin-acid form in bile,-1000.0,1000.0
+EX_6hoxmelatn_e,Exchange of 6-Hydroxymelatonin,-1000.0,1000.0
+EX_6hsmvacid_e,Exchange reaction for 6-beta-hydroxy simvastatin acid in bile,-1000.0,1000.0
+EX_6htststerone_e,6 beta hydroxy testosterone exchange,-1000.0,1000.0
+EX_6melvacid_e,Exchange reaction for 6-exomethylene-lovastatin-acid form in bile,-1000.0,1000.0
+EX_6melvst_e,Exchange reaction for 6-exomethylene-lovastatin in portal blood,-1000.0,1000.0
+EX_6ohfvs_e,Exchnage reaction for 6-hydroxy-fluvastatin in bile,-1000.0,1000.0
+EX_6ohfvsglu_e,Exchange reaction for 6-hydroxy-fluvastatin-glucuronide in hepatic vein,-1000.0,1000.0
+EX_6thf_e,Hexaglutamyl folate  (THF) exchange,-1000.0,1000.0
+EX_7ahglz_e,Exchange reaction for 7-alpha-OH-gliclazide in hepatic vein,-1000.0,1000.0
+EX_7bhglz_e,Exchange reaction for 7-beta-OH-gliclazide in hepatic vein,-1000.0,1000.0
+EX_7bhglzglc_e,Exchange reaction for 7-beta-OH-gliclazide-glucuronide in hepatic vein,-1000.0,1000.0
+EX_7dhcdchol_e,EX 7dhcdchol(e),-1000.0,1000.0
+EX_7dhchol_e,EX 7dhchol(e),-1000.0,1000.0
+EX_7dhchsterol_e,"Exchange of Cholesta-5, 7-Dien-3Beta-Ol",-1000.0,1000.0
+EX_7dhf_e,Heptaglutamyl folate (DHF) exchange,-1000.0,1000.0
+EX_7hpvs_e,Exchange reaction of 7-hydroxy-3-alpha-iso-pravastatin in hepatic vein,-1000.0,1000.0
+EX_7klitchol_e,Exchange of 7-Ketolithocholate,-1000.0,1000.0
+EX_7ohocata_e,Exchange of 7-Hydroxy-Octanoate,-1000.0,1000.0
+EX_7thf_e,Heptaglutamyl folate (THF) exchange,-1000.0,1000.0
+EX_9_cis_retfa_e,Fatty acid 9-cis-retinol exchange,-1000.0,1000.0
+EX_C01601_e,EX C01601[e],-1000.0,1000.0
+EX_C02356_e,(S)-2-Aminobutanoate,-1000.0,1000.0
+EX_C02470_e,Xanthurenic acid exchange,-1000.0,1000.0
+EX_C02528_e,Chenodeoxycholate exchange,-1000.0,1000.0
+EX_C02712_e,Exchange of N-Acetylmethionine,-1000.0,1000.0
+EX_C03681_e,"Exchange of 5Alpha-Pregnane-3, 20-Dione",-1000.0,1000.0
+EX_C04717_e,Exchange of 13(S)-HPODE,-1000.0,1000.0
+EX_C04805_e,Exchange of 5(S)-HETE,-1000.0,1000.0
+EX_C04849_e,"(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate exchange",-1000.0,1000.0
+EX_C05298_e,Exchange of 2-Hydroxyestrone,-1000.0,1000.0
+EX_C05299_e,Exchange of 2-Methoxyestrone,-1000.0,1000.0
+EX_C05300_e,Exchange of 16Alpha-Hydroxyestrone,-1000.0,1000.0
+EX_C05301_e,Exchange of 2-Hydroxyestradiol-17Beta,-1000.0,1000.0
+EX_C05302_e,Exchange of 2-Methoxyestradiol-17Beta,-1000.0,1000.0
+EX_C05767_e,Exchange of Uroporphyrin I,-1000.0,1000.0
+EX_C05769_e,Exchange of Coproporphyrin I,-1000.0,1000.0
+EX_C05770_e,Exchange of Coproporphyrin Iii,-1000.0,1000.0
+EX_C05957_e,Exchange of Prostaglandin J2,-1000.0,1000.0
+EX_C06314_e,Exchange of Lipoxin A4,-1000.0,1000.0
+EX_C06315_e,Exchange of Lipoxin B4,-1000.0,1000.0
+EX_C09642_e,Exchange of (-)-Salsolinol,-1000.0,1000.0
+EX_C10164_e,Exchange of Picolinic Acid,-1000.0,1000.0
+EX_C11695_e,Exchange of Anandamide,-1000.0,1000.0
+EX_C13856_e,EX C13856[e],-1000.0,1000.0
+EX_C14768_e,"Exchange of 5, 6-EET",-1000.0,1000.0
+EX_C14769_e,"Exchange of 8, 9-EET",-1000.0,1000.0
+EX_C14770_e,"Exchange of 11, 12-EET",-1000.0,1000.0
+EX_C14771_e,"Exchange of 14, 15-EET",-1000.0,1000.0
+EX_C14825_e,Exchange of 9 (10)-Epome,-1000.0,1000.0
+EX_C14826_e,Exchange of 12 (13)-Epome,-1000.0,1000.0
+EX_CE0074_e,Alloxan exchange,-1000.0,1000.0
+EX_CE0737_e,Exchange of Malonic Dialdehyde,-1000.0,1000.0
+EX_CE0955_e,6-Oxo-Prostaglandin F1Alpha,-1000.0,1000.0
+EX_CE1243_e,"Exchange of (12S)-12-hydroxyheptadeca-5,8,10-trienoic acid (12S-HHT)",-1000.0,1000.0
+EX_CE1261_e,Exchange of 5-S-Cysteinyldopa,-1000.0,1000.0
+EX_CE1273_e,"Transport of 5Beta-Cholestane-3Alpha, 7Alpha, 12Alpha, 24S, 25-Pentol, ABC Transport",-1000.0,1000.0
+EX_CE1310_e,Exchange of N-Acetyl-L-Cysteine,-1000.0,1000.0
+EX_CE1352_e,Exchange of 17Alpha-Hydroxypregnenolone Sulfate,-1000.0,1000.0
+EX_CE1401_e,Exchange of Homocysteine Thiolactone,-1000.0,1000.0
+EX_CE1447_e,Exchange of 11-Dehydrothromboxane B2,-1000.0,1000.0
+EX_CE1556_e,Exchange of N-Acetyl-L-Asparagine,-1000.0,1000.0
+EX_CE1617_e,Exchange of 9-Cis-Retinoate,-1000.0,1000.0
+EX_CE1918_e,Exchange of 5-Hydroxytryptophol,-1000.0,1000.0
+EX_CE1925_e,3'-carboxy-alpha-chromanol exchange,-1000.0,1000.0
+EX_CE1926_e,Gama-carboxyethyl-hydroxychroman exchange,-1000.0,1000.0
+EX_CE1935_e,Spermine monoaldehyde exchange,-1000.0,1000.0
+EX_CE1936_e,Spermine dialdehyde exchange,-1000.0,1000.0
+EX_CE1939_e,Spermidine monoaldehyde 1 exchange,-1000.0,1000.0
+EX_CE1940_e,Spermidine monoaldehyde 2 exchange,-1000.0,1000.0
+EX_CE1943_e,Spermidine dialdehyde exchange,-1000.0,1000.0
+EX_CE1950_e,Exchange of Cyanosulfurous Acid Anion,-1000.0,1000.0
+EX_CE2006_e,Exchange of 4-Hydroxy-2-Nonenal,-1000.0,1000.0
+EX_CE2026_e,Exchange of 3-Methyl-Crotonyl-Glycine,-1000.0,1000.0
+EX_CE2028_e,Exchange of Beta-Hydroxy-Beta-Methylbutyrate,-1000.0,1000.0
+EX_CE2047_e,"Exchange of 9,10-Hydroxyoctadec-12(Z)-Enoate",-1000.0,1000.0
+EX_CE2049_e,"Exchange of 12,13-Hydroxyoctadec-9(Z)-Enoate",-1000.0,1000.0
+EX_CE2172_e,"Exchange of 6, 7-Dihydroxy-1, 2, 3, 4-Tetrahydroisoquinoline",-1000.0,1000.0
+EX_CE2176_e,Exchange of 3-O-Methyldopa,-1000.0,1000.0
+EX_CE2209_e,"Exchange of 5Alpha-Androstane-3Alpha, 17Beta-Diol",-1000.0,1000.0
+EX_CE2211_e,Exchange of Allopregnanolone,-1000.0,1000.0
+EX_CE2250_e,3-oxodocosanoyl-CoA exchange,-1000.0,1000.0
+EX_CE2445_e,Exchange of 6-Trans-Leukotriene B4,-1000.0,1000.0
+EX_CE2510_e,Exchange of 11-Cis-Eicosenoate,-1000.0,1000.0
+EX_CE2537_e,"Exchange of 15-Hydroxy- (8Z, 11Z, 13E)-Eicosatrienoate",-1000.0,1000.0
+EX_CE2705_e,Exchange of Quinonoid Dihydrobiopterin,-1000.0,1000.0
+EX_CE2838_e,Maltononaose exchange,-1000.0,1000.0
+EX_CE2839_e,Maltodecaose exchange,-1000.0,1000.0
+EX_CE2915_e,Beta-casomorphin exchange,-1000.0,1000.0
+EX_CE2916_e,Neocasomorphin exchange,-1000.0,1000.0
+EX_CE2917_e,Apelin-13 exchange,-1000.0,1000.0
+EX_CE2934_e,Exchange of O-Methylhippurate,-1000.0,1000.0
+EX_CE4633_e,Hypochlorous acid exchange,-1000.0,1000.0
+EX_CE4722_e,Beta-casomorphin (1-6) exchange,-1000.0,1000.0
+EX_CE4723_e,Neocasomorphin (1-5) exchange,-1000.0,1000.0
+EX_CE4724_e,Apelin (1-12) exchange,-1000.0,1000.0
+EX_CE4877_e,Exchange of 15-Deoxy-Prostaglandin J2,-1000.0,1000.0
+EX_CE4881_e,Nitryl chloride exchange,-1000.0,1000.0
+EX_CE4890_e,Exchange of N-Methylsalsolinol,-1000.0,1000.0
+EX_CE4968_e,Exchange of Isovalerylglycine,-1000.0,1000.0
+EX_CE4969_e,Exchange of Isobutyrylglycine,-1000.0,1000.0
+EX_CE4970_e,Exchange of 2-Methylbutyrylglycine,-1000.0,1000.0
+EX_CE5025_e,Exchange of 5-S-Glutathionyl-Dopamine,-1000.0,1000.0
+EX_CE5026_e,Exchange of 5-S-Glutathionyl-L-Dopa,-1000.0,1000.0
+EX_CE5072_e,Exchange of 21-Hydroxyallopregnanolone,-1000.0,1000.0
+EX_CE5304_e,Exchange of 15-Deoxy-Pgd2,-1000.0,1000.0
+EX_CE5629_e,"Exchange of 6, 7-Dihydroxy-1, 2, 3, 4-Tetrahydroisoquinoline",-1000.0,1000.0
+EX_CE5643_e,Exchange of Peroxynitrite,-1000.0,1000.0
+EX_CE5786_e,Kinetensin exchange,-1000.0,1000.0
+EX_CE5787_e,Exchange of Kinetensin 1-3,-1000.0,1000.0
+EX_CE5788_e,Kinetensin 1-7 exchange,-1000.0,1000.0
+EX_CE5789_e,Kinetensin 1-8 exchange,-1000.0,1000.0
+EX_CE5791_e,Exchange of Kinetensin 4-8,-1000.0,1000.0
+EX_CE5797_e,Neuromedin N exchange,-1000.0,1000.0
+EX_CE5798_e,Neuromedin N (1-4) exchange,-1000.0,1000.0
+EX_CE5853_e,Alpha-CEHC-glucuronide exchange,-1000.0,1000.0
+EX_CE5854_e,Gama-CEHC-glucuronide exchange,-1000.0,1000.0
+EX_CE5867_e,N-acetyl-seryl-aspartyl-lysyl-proline exchange,-1000.0,1000.0
+EX_CE5868_e,N-acetyl-seryl-aspartate exchange,-1000.0,1000.0
+EX_CE5869_e,Lysyl-proline exchange,-1000.0,1000.0
+EX_CE6031_e,Exchange of Androsterone Sulfate,-1000.0,1000.0
+EX_CE6205_e,Exchange of 5-Methoxytryptophol,-1000.0,1000.0
+EX_CE6247_e,"Exchange of 5, 12, 20-Trihete",-1000.0,1000.0
+EX_CE7081_e,Exchange of 15(R)-HEPE,-1000.0,1000.0
+EX_CE7082_e,Exchange of 15(S)-HEPE,-1000.0,1000.0
+EX_CE7083_e,Exchange of Leukotriene B5,-1000.0,1000.0
+EX_CE7085_e,"Exchange of (+-)-5-Hydroxy-6E,8Z,11Z,14Z,17Z-Eicosapentaenoic Acid",-1000.0,1000.0
+EX_CE7090_e,"Exchange of 18R-Hydroxy-5Z,8Z,11Z,14Z,16E-Eicosapentaenoic Acid",-1000.0,1000.0
+EX_CE7096_e,"Exchange of 5,15-Dihydroxyeicosatetraenoic Acid",-1000.0,1000.0
+EX_CE7172_e,"Exchange of 14, 15-DIHETE",-1000.0,1000.0
+EX_HC00004_e,ApoA1 exchange,-1000.0,1000.0
+EX_HC00005_e,Exchange of ApoB100,-1000.0,1000.0
+EX_HC00006_e,Exchange of Apo C1,-1000.0,1000.0
+EX_HC00007_e,Exchange of Apo C2,-1000.0,1000.0
+EX_HC00008_e,Exchange of Apo C3,-1000.0,1000.0
+EX_HC00009_e,Exchange of Apo E,-1000.0,1000.0
+EX_HC00250_e,Exchange of hydrosulfide,-1000.0,1000.0
+EX_HC00342_e,Exchange of Cis-Aconitate,-1000.0,1000.0
+EX_HC00460_e,"Exchange of 2,5-Dihydroxybenzoate",-1000.0,1000.0
+EX_HC00822_e,Chitobiose exchange,-1000.0,1000.0
+EX_HC00900_e,Exchange of Methylmalonate,-1000.0,1000.0
+EX_HC00955_e,L-3-Cyanoalanine exchange,-1000.0,1000.0
+EX_HC01104_e,Exchange of 4-nitrophenyl phosphate(2-),-1000.0,1000.0
+EX_HC01361_e,Exchange of Dihydroneopterin,-1000.0,1000.0
+EX_HC01440_e,Exchange of 3-Keto-beta-D-galactose,-1000.0,1000.0
+EX_HC01441_e,Exchange of Lactose-6P,-1000.0,1000.0
+EX_HC01444_e,Exchange of Galactosylglycerol,-1000.0,1000.0
+EX_HC01446_e,Exchange of 3-Ketolactose,-1000.0,1000.0
+EX_HC01577_e,Exchange of gamma-Glutamyl-beta-cyanoalanine,-1000.0,1000.0
+EX_HC01609_e,Exchange of UroporphyrinogenI,-1000.0,1000.0
+EX_HC01700_e,Exchange of gamma-Glutamyl-3-aminopropiononitrile,-1000.0,1000.0
+EX_HC02020_e,Exchange of Cholesterol-Ester-Palm,-1000.0,1000.0
+EX_HC02160_e,Exchange of GM2-pool,-1000.0,1000.0
+EX_HC02161_e,Exchange of GM1-pool,-1000.0,1000.0
+EX_HC02180_e,Thromboxane-b2 exchange,-1000.0,1000.0
+EX_HC02187_e,Reverse-triiodthyronine exchange,-1000.0,1000.0
+EX_HC02191_e,Lithocholate exchange,-1000.0,1000.0
+EX_HC02192_e,Taurolithocholate exchange,-1000.0,1000.0
+EX_HC02193_e,Glycolithocholate exchange,-1000.0,1000.0
+EX_HC02194_e,Ursodeoxycholate exchange,-1000.0,1000.0
+EX_HC02195_e,Tauroursodeoxycholate exchange,-1000.0,1000.0
+EX_HC02196_e,Glycoursodeoxycholate exchange,-1000.0,1000.0
+EX_HC02197_e,Sulfoglycolithocholate(2-) exchange,-1000.0,1000.0
+EX_HC02198_e,"2-[(4R)-4-[(1S,2S,5R,7R,10R,11S,14R,15R)-2,15-dimethyl-5-(sulfonatooxy)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-14-yl]pentanamido]ethane-1-sulfonate exchange",-1000.0,1000.0
+EX_HC02202_e,Prostaglandin A1(1-) exchange,-1000.0,1000.0
+EX_HC02203_e,Prostaglandin-a2 exchange,-1000.0,1000.0
+EX_HC02204_e,Prostaglandin-b1 exchange,-1000.0,1000.0
+EX_HC02205_e,Prostaglandin-b2 exchange,-1000.0,1000.0
+EX_HC02206_e,Prostaglandin C1(1-) exchange,-1000.0,1000.0
+EX_HC02207_e,Prostaglandin-c2 exchange,-1000.0,1000.0
+EX_HC02213_e,Prostaglandin-e3 exchange,-1000.0,1000.0
+EX_HC02217_e,Prostaglandin-g2 exchange,-1000.0,1000.0
+EX_HC02220_e,Sulfochenodeoxycholate exchange,-1000.0,1000.0
+EX_L2aadp_e,Exchange of L-2-Aminoadipate,-1000.0,1000.0
+EX_Lcyst_e,L-Cysteate exchange,-1000.0,1000.0
+EX_Lhcystin_e,Exchange of Homocystine,-1000.0,1000.0
+EX_Lkynr_e,Exchange of L-Kynurenine,-1000.0,1000.0
+EX_Lpipecol_e,Exchange of L-Pipecolic Acid,-1000.0,1000.0
+EX_M00003_e,EX M00003[e],-1000.0,1000.0
+EX_M00008_e,EX M00008[e],-1000.0,1000.0
+EX_M00010_e,EX M00010[e],-1000.0,1000.0
+EX_M00017_e,EX M00017[e],-1000.0,1000.0
+EX_M00019_e,EX M00019[e],-1000.0,1000.0
+EX_M00021_e,EX M00021[e],-1000.0,1000.0
+EX_M00115_e,EX M00115[e],-1000.0,1000.0
+EX_M00117_e,EX M00117[e],-1000.0,1000.0
+EX_M00234_e,EX M00234[e],-1000.0,1000.0
+EX_M00241_e,EX M00241[e],-1000.0,1000.0
+EX_M00260_e,EX M00260[e],-1000.0,1000.0
+EX_M00265_e,EX M00265[e],-1000.0,1000.0
+EX_M00315_e,EX M00315[e],-1000.0,1000.0
+EX_M00341_e,EX M00341[e],-1000.0,1000.0
+EX_M00503_e,EX M00503[e],-1000.0,1000.0
+EX_M00510_e,EX M00510[e],-1000.0,1000.0
+EX_M01111_e,EX M01111[e],-1000.0,1000.0
+EX_M01197_e,EX M01197[e],-1000.0,1000.0
+EX_M01207_e,EX M01207[e],-1000.0,1000.0
+EX_M01235_e,EX M01235[e],-1000.0,1000.0
+EX_M01238_e,EX M01238[e],-1000.0,1000.0
+EX_M01582_e,EX M01582[e],-1000.0,1000.0
+EX_M01807_e,EX M01807[e],-1000.0,1000.0
+EX_M01820_e,EX M01820[e],-1000.0,1000.0
+EX_M01870_e,EX M01870[e],-1000.0,1000.0
+EX_M01872_e,EX M01872[e],-1000.0,1000.0
+EX_M01881_e,EX M01881[e],-1000.0,1000.0
+EX_M01966_e,EX M01966[e],-1000.0,1000.0
+EX_M01989_e,EX M01989[e],-1000.0,1000.0
+EX_M02053_e,EX M02053[e],-1000.0,1000.0
+EX_M02108_e,EX M02108[e],-1000.0,1000.0
+EX_M02155_e,EX M02155[e],-1000.0,1000.0
+EX_M02446_e,EX M02446[e],-1000.0,1000.0
+EX_M02447_e,EX M02447[e],-1000.0,1000.0
+EX_M02449_e,EX M02449[e],-1000.0,1000.0
+EX_M02451_e,EX M02451[e],-1000.0,1000.0
+EX_M02457_e,EX M02457[e],-1000.0,1000.0
+EX_M02560_e,EX M02560[e],-1000.0,1000.0
+EX_M02561_e,EX M02561[e],-1000.0,1000.0
+EX_M02613_e,EX M02613[e],-1000.0,1000.0
+EX_M02745_e,EX M02745[e],-1000.0,1000.0
+EX_M02837_e,EX M02837[e],-1000.0,1000.0
+EX_M02909_e,EX M02909[e],-1000.0,1000.0
+EX_M02956_e,EX M02956[e],-1000.0,1000.0
+EX_M03045_e,EX M03045[e],-1000.0,1000.0
+EX_M03051_e,EX M03051[e],-1000.0,1000.0
+EX_M03117_e,EX M03117[e],-1000.0,1000.0
+EX_M03131_e,EX M03131[e],-1000.0,1000.0
+EX_M03134_e,EX M03134[e],-1000.0,1000.0
+EX_M03153_e,EX M03153[e],-1000.0,1000.0
+EX_N1aspmd_e,Exchange of N(1)-Acetylspermidine,-1000.0,1000.0
+EX_Nacasp_e,Exchange of N-Acetyl-L-Aspartate,-1000.0,1000.0
+EX_Rtotal2_e,R total 2 position exchange,-1000.0,1000.0
+EX_Rtotal3_e,R total 3 position exchange,-1000.0,1000.0
+EX_Rtotal_e,R total exchange,-1000.0,1000.0
+EX_T4hcinnm_e,EX T4hcinnm LPAREN e RPAREN,-1000.0,1000.0
+EX_Tyr_ggn_e,Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis) exchange,-1000.0,1000.0
+EX_aact_e,Exchange of Ammonioacetone,-1000.0,1000.0
+EX_abt__D_e,D-Arabitol exchange,-1000.0,1000.0
+EX_abt_e,L Arabinitol exchange,-1000.0,1000.0
+EX_ac_e,Acetate exchange,-1000.0,1000.0
+EX_acac_e,Acetoacetate exchange,-1000.0,1000.0
+EX_acald_e,Acetaldehyde exchange,-1000.0,1000.0
+EX_acetone_e,Acetone exchange,-1000.0,1000.0
+EX_acgal_e,N-Acetyl-D-galactosamine exchange,-1000.0,1000.0
+EX_acgalfucgalacgalfuc12gal14acglcgalgluside_hs_e,Type IIIA glycolipid exchange,-1000.0,1000.0
+EX_acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs_e,Type IIIAb exchange,-1000.0,1000.0
+EX_acgam_e,N-Acetyl-D-glucosamine exchange,-1000.0,1000.0
+EX_acglu_e,Exchange of N-Acetyl-L-Glutamate,-1000.0,1000.0
+EX_acgly_e,Exchange of Acetyl-Glycine,-1000.0,1000.0
+EX_ach_e,Acetylcholine exchange,-1000.0,1000.0
+EX_achom__L_e,Exchange of Acetyl Homoserine,-1000.0,1000.0
+EX_acile__L_e,Exchange of Acetyl Isoleucine,-1000.0,1000.0
+EX_acleu__L_e,Exchange of Acetyl Leucine,-1000.0,1000.0
+EX_aclys_e,Exchange of Acetyl-Lysine,-1000.0,1000.0
+EX_acmana_e,N-Acetyl-D-mannosamine exchange,-1000.0,1000.0
+EX_acmp_e,Exchange reaction for acetaminophen in small intestinal lumen,-1000.0,1000.0
+EX_acmpglu_e,Exchange reaction for acetaminophen-glucuronide-conjugate in portal blood,-1000.0,1000.0
+EX_acmpglut_e,Exchange reaction for acetaminophen-glutathione-conjugate in intestinal lumen,-1000.0,1000.0
+EX_acn13acngalgbside_hs_e,"Sialyl (1,3) sialyl (2,6) galactosylgloboside (homo sapiens) exchange",-1000.0,1000.0
+EX_acn23acngalgbside_hs_e,"Sialyl (2,3) sialyl (2,6) galactosylgloboside (homo sapiens) exchange",-1000.0,1000.0
+EX_acnacngal14acglcgalgluside_hs_e,"3',8'-LD1 exchange",-1000.0,1000.0
+EX_acnacngalgbside_hs_e,Disialyl galactosylgloboside (homo sapiens) exchange,-1000.0,1000.0
+EX_acnam_e,N-Acetylneuraminate exchange,-1000.0,1000.0
+EX_acngalacglcgal14acglcgalgluside_hs_e,VI3NeuAc-nLc6Cer exchange,-1000.0,1000.0
+EX_acorn_e,Exchange of N (2)-Acetyl-L-Ornithine,-1000.0,1000.0
+EX_acrn_e,Exchange of O-Acetylcarnitine,-1000.0,1000.0
+EX_acthr__L_e,Exchange of Acetyl-Threonine,-1000.0,1000.0
+EX_actyr_e,Exchange of N-Acetyl-Tyrosine,-1000.0,1000.0
+EX_ade_e,Adenine exchange,-1000.0,1000.0
+EX_adn_e,Adenosine exchange,-1000.0,1000.0
+EX_adp_e,Adp exchange,-1000.0,1000.0
+EX_adpac_e,Exchange of Adipic Acid,-1000.0,1000.0
+EX_adpman_e,EX adpman[e],-1000.0,1000.0
+EX_adpoh_e,Exchange of 2-Hydroxyadipic Acid,-1000.0,1000.0
+EX_adprbp_e,ADPribose 2'-phosphate exchange,-1000.0,1000.0
+EX_adprib_e,ADPribose exchange,-1000.0,1000.0
+EX_adrn_e,Adrenic acid exchange,-1000.0,1000.0
+EX_adrnl_e,Adrenaline exchange,-1000.0,1000.0
+EX_aflatoxin_e,Aflatoxin B1 exchange,-1000.0,1000.0
+EX_agm_e,Agmatine exchange,-1000.0,1000.0
+EX_ahandrostan_e,Exchange of 3Alpha-Hydroxy-5Beta-Androstan-17-One,-1000.0,1000.0
+EX_ahandrostanglc_e,Etiocholan-3alpha-ol-17-one 3-glucuronide exchange,-1000.0,1000.0
+EX_ahcys_e,Exchange of S-adenosyl-L-homocysteine,-1000.0,1000.0
+EX_ahdt_e,"Exchange of 7,8-dihydroneopterin 3-triphosphate(4-)",-1000.0,1000.0
+EX_aicar_e,Exchange of 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide(2-),-1000.0,1000.0
+EX_ak2lgchol_hs_e,1-alkyl 2-lysoglycerol 3-phosphocholine exchange,-1000.0,1000.0
+EX_akg_e,2-Oxoglutarate exchange,-1000.0,1000.0
+EX_ala_B_e,Beta-Alanine exchange,-1000.0,1000.0
+EX_ala__D_e,D-Alanine exchange,-1000.0,1000.0
+EX_ala__L_e,L-Alanine exchange,-1000.0,1000.0
+EX_alaala_e,D-Alanyl-D-alanine exchange,-1000.0,1000.0
+EX_alaargcys_e,Exchange of AlaArgCys,-1000.0,1000.0
+EX_alaarggly_e,Exchange of AlaArgGly,-1000.0,1000.0
+EX_alaasnleu_e,Exchange of AlaAsnLeu,-1000.0,1000.0
+EX_alaglylys_e,Exchange of AlaGlyLys,-1000.0,1000.0
+EX_alahisala_e,Exchange of AlaHisAla,-1000.0,1000.0
+EX_alalysthr_e,Exchange of AlaLysThr,-1000.0,1000.0
+EX_aldstrn_e,Aldosterone exchange,-1000.0,1000.0
+EX_allop_e,Exchange reaction for allopurinol in intestinal lumen,-1000.0,1000.0
+EX_alltn_e,Allantoin exchange,-1000.0,1000.0
+EX_am19cs_e,Exchange reaction for AM19-cyclosporine in hepatic vein,-1000.0,1000.0
+EX_am1a4ncs_e,Exchange reaction for AM1A4N-cyclosporine in bile,-1000.0,1000.0
+EX_am1accs_e,Exchange reaction for AM1Ac-cyclosporine in hepatic vein,-1000.0,1000.0
+EX_am1acs_e,Exchange reaction for AM1A (cyclosporine) in portal blood,-1000.0,1000.0
+EX_am1alcs_e,Exchange reaction for AM1AL (cyclosporine) in portal blood,-1000.0,1000.0
+EX_am1c4n9cs_e,Exchange reaction for AM1c4N9-cyclosporine in bile,-1000.0,1000.0
+EX_am1c9cs_e,Exchange reaction for AM1c9-cyclosporine in hepatic vein,-1000.0,1000.0
+EX_am1ccs_e,Exchange reaction for AM1c-cyclosporine in hepatic vein,-1000.0,1000.0
+EX_am1cglc_e,Exchange reaction for AM1c-glucuronide in bile,-1000.0,1000.0
+EX_am1csa_e,Exchange reaction for AM1 (cyclosporine) in portal blood,-1000.0,1000.0
+EX_am4n9cs_e,Exchange reaction for AM4N9-cyclosporine in hepatic vein,-1000.0,1000.0
+EX_am4ncs_e,Exchange reaction for AM4N (cyclosporine) in portal blood,-1000.0,1000.0
+EX_am9csa_e,Exchange reaction for AM9 (cyclosporine) in portal blood,-1000.0,1000.0
+EX_amet_e,S Adenosyl L methionine exchange,-1000.0,1000.0
+EX_ametam_e,Exchange of S-Adenosylmethioninamine,-1000.0,1000.0
+EX_amp_e,AMP exchange,-1000.0,1000.0
+EX_and19one_e,"Exchange of 19-Hydroxyandrost-4-Ene-3, 17-Dione",-1000.0,1000.0
+EX_andrstandn_e,"Exchange of 5Alpha-Androstane-3, 17-Dione",-1000.0,1000.0
+EX_andrstndn_e,"Exchange of Androst-4-Ene-3, 17-Dione",-1000.0,1000.0
+EX_andrstrn_e,Androsterone exchange,-1000.0,1000.0
+EX_andrstrnglc_e,Androsterone glucuronide exchange,-1000.0,1000.0
+EX_anth_e,Exchange of anthranilate,-1000.0,1000.0
+EX_antipyrene_e,Antipyrene exchange,-1000.0,1000.0
+EX_apnnox_e,Alpha-Pinene-oxide exchange,-1000.0,1000.0
+EX_appnn_e,(+)-alpha-Pinene exchange,-1000.0,1000.0
+EX_aprgstrn_e,20alpha-Hydroxyprogesterone exchange,-1000.0,1000.0
+EX_aqcobal_e,Aquacob(III)alamin exchange,-1000.0,1000.0
+EX_arab__L_e,L-Arabinose exchange,-1000.0,1000.0
+EX_arach_e,Arachidic acid exchange,-1000.0,1000.0
+EX_arachcoa_e,Arachidyl coenzyme A exchange,-1000.0,1000.0
+EX_arachd_e,NC20:4 exchange,-1000.0,1000.0
+EX_aracheth_e,Exchange of O-Arachidonoyl Ethanolamine,-1000.0,1000.0
+EX_arg__D_e,Exchange of D-Arginine,-1000.0,1000.0
+EX_arg__L_e,L-Arginine exchange,-1000.0,1000.0
+EX_argalaala_e,Exchange of ArgAlaAla,-1000.0,1000.0
+EX_argalaphe_e,Exchange of ArgAlaPhe,-1000.0,1000.0
+EX_argalathr_e,Exchange of ArgAlaThr,-1000.0,1000.0
+EX_argarg_e,Exchange of ArgArg,-1000.0,1000.0
+EX_argarglys_e,Exchange of ArgArgLys,-1000.0,1000.0
+EX_argargmet_e,Exchange of ArgArgMet,-1000.0,1000.0
+EX_argcysgly_e,Exchange of ArgCysGly,-1000.0,1000.0
+EX_argcysser_e,Exchange of ArgCysSer,-1000.0,1000.0
+EX_arggluglu_e,Exchange of ArgGluGlu,-1000.0,1000.0
+EX_argglupro_e,Exchange of ArgGluPro,-1000.0,1000.0
+EX_argglygly_e,Exchange of ArgGlyGly,-1000.0,1000.0
+EX_arghisthr_e,Exchange of ArgHisThr,-1000.0,1000.0
+EX_argleuphe_e,Exchange of ArgLeuPhe,-1000.0,1000.0
+EX_arglysasp_e,Exchange of ArgLysAsp,-1000.0,1000.0
+EX_argphearg_e,Exchange of ArgPheArg,-1000.0,1000.0
+EX_argpromet_e,Exchange of ArgProMet,-1000.0,1000.0
+EX_argprothr_e,Exchange of ArgProThr,-1000.0,1000.0
+EX_argserser_e,Exchange of ArgSerSer,-1000.0,1000.0
+EX_argsuc_e,Exchange of L-Arginosuccinic Acid,-1000.0,1000.0
+EX_argtyrval_e,Exchange of ArgtyrVal,-1000.0,1000.0
+EX_argvalcys_e,Exchange of ArgValCys,-1000.0,1000.0
+EX_argvaltrp_e,Exchange of ArgValTrp,-1000.0,1000.0
+EX_ascb__L_e,L-Ascorbate exchange,-1000.0,1000.0
+EX_asn__L_e,L-Asparagine exchange,-1000.0,1000.0
+EX_asnasnarg_e,Exchange of AsnAsnArg,-1000.0,1000.0
+EX_asncyscys_e,Exchange of AsnCysCys,-1000.0,1000.0
+EX_asnmetpro_e,Exchange of AsnMetPro,-1000.0,1000.0
+EX_asnpheasp_e,Exchange of AsnPheAsp,-1000.0,1000.0
+EX_asnphecys_e,Exchange of AsnPheCys,-1000.0,1000.0
+EX_asntyrgly_e,Exchange of AsntyrGly,-1000.0,1000.0
+EX_asntyrphe_e,Exchange of AsntyrPhe,-1000.0,1000.0
+EX_asntyrthr_e,Exchange of AsntyrThr,-1000.0,1000.0
+EX_asp__D_e,D-Aspartate exchange,-1000.0,1000.0
+EX_asp__L_e,L-Aspartate exchange,-1000.0,1000.0
+EX_aspalaarg_e,Exchange of AspAlaArg,-1000.0,1000.0
+EX_aspasnglu_e,Exchange of AspAsnGlu,-1000.0,1000.0
+EX_aspglu_e,Exchange of AspGlu,-1000.0,1000.0
+EX_aspglupro_e,Exchange of AspGluPro,-1000.0,1000.0
+EX_aspglutrp_e,Exchange of AspGluTrp,-1000.0,1000.0
+EX_asphiscys_e,Exchange of AspHisCys,-1000.0,1000.0
+EX_asphispro_e,Exchange of AspHisPro,-1000.0,1000.0
+EX_asplysglu_e,Exchange of AspLysGlu,-1000.0,1000.0
+EX_asplyshis_e,Exchange of AspLysHis,-1000.0,1000.0
+EX_aspmetasp_e,Exchange of AspMetAsp,-1000.0,1000.0
+EX_aspprolys_e,Exchange of AspProLys,-1000.0,1000.0
+EX_aspvalasn_e,Exchange of AspValAsn,-1000.0,1000.0
+EX_atp_e,EX atp LPAREN e RPAREN,-1000.0,1000.0
+EX_atvacid_e,Exchange reaction for atorvastatin in intestinal lumen,-1000.0,1000.0
+EX_atvlac_e,Exchange reaction for atorvastatin-lactone in portal blood,-1000.0,1000.0
+EX_avite1_e,Alpha-Tocopherol exchange,-1000.0,1000.0
+EX_avite2_e,Alpha-Tocotrienol exchange,-1000.0,1000.0
+EX_bglc_e,Exchange reaction for beta glucans,-1000.0,1000.0
+EX_bgly_e,Exchange of Hippurate (Benzoylglycinate),-1000.0,1000.0
+EX_bhb_e,(R)-3-Hydroxybutanoate transport via H+ symport,-1000.0,1000.0
+EX_bildglcur_e,Bilirubin beta-diglucuronide exchange,-1000.0,1000.0
+EX_bilglcur_e,Bilirubin monoglucuronide exchange,-1000.0,1000.0
+EX_bilirub_e,Bilirubin exchange,-1000.0,1000.0
+EX_biliverd_e,Exchange of Biliverdin,-1000.0,1000.0
+EX_biocyt_e,Biocytin exchange,-1000.0,1000.0
+EX_btn_e,Biotin exchange,-1000.0,1000.0
+EX_but_e,Butyrate (n-C4:0) exchange,-1000.0,1000.0
+EX_bvite_e,Beta-tocopherol exchange,-1000.0,1000.0
+EX_bz_e,Benzoate exchange,-1000.0,1000.0
+EX_c101crn_e,Exchange of Decenoyl Carnitine,-1000.0,1000.0
+EX_c10crn_e,Exchange of Decanoyl Carnitine,-1000.0,1000.0
+EX_c10dc_e,Exchange reaction for sebacoyl carnitine,-1000.0,1000.0
+EX_c12dc_e,Exchange of Dodecanedioyl Carnitine,-1000.0,1000.0
+EX_c16dc_e,Exchange of Hexadecanedioic Acid Mono-L-Carnitine Ester,-1000.0,1000.0
+EX_c3dc_e,Exchange of Malonyl Carnitine,-1000.0,1000.0
+EX_c4crn_e,Exchange reaction for butyryl carnitine,-1000.0,1000.0
+EX_c4dc_e,Exchange reaction for succinyl carnitine,-1000.0,1000.0
+EX_c51crn_e,Exchange reaction for tiglyl carnitine,-1000.0,1000.0
+EX_c5dc_e,Exchange of Glutaryl Carnitine,-1000.0,1000.0
+EX_c6crn_e,Exchange of Hexanoyl Carnitine,-1000.0,1000.0
+EX_c6dc_e,Exchange reaction for adipoyl carnitine,-1000.0,1000.0
+EX_c81crn_e,Exchange of Octenoyl Carnitine,-1000.0,1000.0
+EX_c8crn_e,Exchange reaction for octanoyl carnitine,-1000.0,1000.0
+EX_c8dc_e,Exchange reaction for suberyl carnitine,-1000.0,1000.0
+EX_ca24g_e,EX ca24g(e),-1000.0,1000.0
+EX_ca2_e,name,-1000.0,1000.0
+EX_ca3s_e,EX ca3s(e),-1000.0,1000.0
+EX_cala_e,Exchange of N-Carbamoyl-Beta-Alaninate,-1000.0,1000.0
+EX_camp_e,CAMP exchange,-1000.0,1000.0
+EX_caproic_e,EX caproic[e],-1000.0,1000.0
+EX_caribup__R_e,Exchange reaction for R-carboxy ibuprofen in hepatic vein,-1000.0,1000.0
+EX_caribup_s_e,Exchange reaction for S-carboxy ibuprofen in hepatic vein,-1000.0,1000.0
+EX_caribupglu__S_e,Exchange reaction for S-carboxy ibuprofen glucuronide in hepatic vein,-1000.0,1000.0
+EX_carn_e,Exchange reaction for carnosine,-1000.0,1000.0
+EX_caro_e,Beta-Carotene exchange,-1000.0,1000.0
+EX_carveol_e,(E)-carveol exchange,-1000.0,1000.0
+EX_cbasp_e,Exchange of N-carbamoyl-L-aspartate,-1000.0,1000.0
+EX_cdca24g_e,EX cdca24g(e),-1000.0,1000.0
+EX_cdca3g_e,EX cdca3g(e),-1000.0,1000.0
+EX_cdp_e,CDP(3-) exchange,-1000.0,1000.0
+EX_cdpea_e,Exchange of CDP-Ethanolamine,-1000.0,1000.0
+EX_cgly_e,Cys-Gly exchange,-1000.0,1000.0
+EX_chol_e,Choline exchange,-1000.0,1000.0
+EX_cholate_e,Cholate exchange,-1000.0,1000.0
+EX_cholp_e,Exchange of Choline Phosphate,-1000.0,1000.0
+EX_chsterol_e,Cholesterol exchange,-1000.0,1000.0
+EX_chsterols_e,Exchange of Cholesterol Sulfate,-1000.0,1000.0
+EX_chtn_e,Chitin exchange,-1000.0,1000.0
+EX_cit_e,Citrate exchange,-1000.0,1000.0
+EX_citr__L_e,L-Citrulline exchange,-1000.0,1000.0
+EX_cl_e,name,-1000.0,1000.0
+EX_clpnd_e,Clupanodonic acid (docosapentaenoic (n-3)) exchange,-1000.0,1000.0
+EX_cmp_e,CMP exchange,-1000.0,1000.0
+EX_cmpacna_e,Exchange of CMP-N-Acetyl-Beta-Neuraminate,-1000.0,1000.0
+EX_co2_e,CO2 exchange,-1000.0,1000.0
+EX_co_e,EX co LPAREN e RPAREN,-1000.0,1000.0
+EX_coa_e,EX coa LPAREN e RPAREN,-1000.0,1000.0
+EX_coke_e,Exchange of Cocaine,-1000.0,1000.0
+EX_coprost_e,EX coprost(e),-1000.0,1000.0
+EX_core4_e,Exchange of Core 4 (Mucin O-Glycan),-1000.0,1000.0
+EX_core5_e,Exchange of Core 5 (Mucin O-Glycan),-1000.0,1000.0
+EX_core7_e,Exchange of Core 7 (Mucin O-Glycan),-1000.0,1000.0
+EX_core8_e,Exchange of Core 8 (Mucin O-Glycan),-1000.0,1000.0
+EX_cortsn_e,Exchange of Cortisone,-1000.0,1000.0
+EX_coumarin_e,Coumarin exchange,-1000.0,1000.0
+EX_cpppg1_e,Exchange of CoproporphyrinogenI,-1000.0,1000.0
+EX_creat_e,Creatine exchange,-1000.0,1000.0
+EX_crglz_e,Exchange reaction for carboxy-gliclazide in hepatic vein,-1000.0,1000.0
+EX_crm_hs_e,Exchange of N-Acylsphingosine,-1000.0,1000.0
+EX_crmp_hs_e,Ceramide 1-phosphate exchange,-1000.0,1000.0
+EX_crn_e,L-Carnitine exchange,-1000.0,1000.0
+EX_crtn_e,Exchange of Creatinine,-1000.0,1000.0
+EX_crtsl_e,Cortisol Exchange,-1000.0,1000.0
+EX_crtstrn_e,Corticosterone Exchange,-1000.0,1000.0
+EX_crvnc_e,NC22:6 exchange,-1000.0,1000.0
+EX_crvs_e,Exchange reaction for cerivastatin in intestinal lumen,-1000.0,1000.0
+EX_crvsm1_e,Exchange reaction for cerivastatin-M1 in hepatic vein,-1000.0,1000.0
+EX_crvsm23_e,Exchange reaction for cerivastatin-M23 in hepatic vein,-1000.0,1000.0
+EX_crvsm24_e,Exchange reaction for cerivastatin-M24 in hepatic vein,-1000.0,1000.0
+EX_csa_e,Exchange reaction for cyclosporine in intestinal lumen,-1000.0,1000.0
+EX_csasulp_e,Exchange reaction for cyclosporine-sulphate in hepatic vein,-1000.0,1000.0
+EX_csn_e,Cytosine exchange,-1000.0,1000.0
+EX_cspg_a_e,Chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan exchange,-1000.0,1000.0
+EX_cspg_b_e,Chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan exchange,-1000.0,1000.0
+EX_cspg_c_e,Chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan exchange,-1000.0,1000.0
+EX_cspg_d_e,Chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan exchange,-1000.0,1000.0
+EX_cspg_e_e,"Chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan exchange",-1000.0,1000.0
+EX_ctp_e,Exchange of CTP(4-),-1000.0,1000.0
+EX_cyan_e,Hydrogen cyanide exchange,-1000.0,1000.0
+EX_cynt_e,Cyanate exchange,-1000.0,1000.0
+EX_cys__L_e,L-Cysteine exchange,-1000.0,1000.0
+EX_cysacmp_e,Exchange reaction for cysteine-conjugate-acetaminophen in hepatic vein,-1000.0,1000.0
+EX_cysam_e,Exchange reaction for cysam,-1000.0,1000.0
+EX_cysasnmet_e,Exchange of CysAsnMet,-1000.0,1000.0
+EX_cysaspphe_e,Exchange of CysAspPhe,-1000.0,1000.0
+EX_cyscys_e,Exchange of CysCys,-1000.0,1000.0
+EX_cysglnmet_e,Exchange of CysGlnMet,-1000.0,1000.0
+EX_cysgluhis_e,Exchange of CysGluHis,-1000.0,1000.0
+EX_cysglutrp_e,Exchange of CysGluTrp,-1000.0,1000.0
+EX_cysi__L_e,L Cystine exchange,-1000.0,1000.0
+EX_cysleuthr_e,Exchange of CysLeuThr,-1000.0,1000.0
+EX_cyssermet_e,Exchange of CysSerMet,-1000.0,1000.0
+EX_cyst__L_e,L Cystine exchange,-1000.0,1000.0
+EX_cystyrasn_e,Exchange of CystyrAsn,-1000.0,1000.0
+EX_cytd_e,Cytidine exchange,-1000.0,1000.0
+EX_dad_2_e,Deoxyadenosine exchange,-1000.0,1000.0
+EX_dag_hs_e,Diacylglycerol (homo sapiens) exchange,-1000.0,1000.0
+EX_dca24g_e,EX dca24g(e),-1000.0,1000.0
+EX_dca3g_e,EX dca3g(e),-1000.0,1000.0
+EX_dca3s_e,EX dca3s(e),-1000.0,1000.0
+EX_dca_e,Decanoate (n-C10:0) exchange,-1000.0,1000.0
+EX_dchac_e,Exchange reaction for deoxycholic acid,-1000.0,1000.0
+EX_dcmp_e,DCMP exchange,-1000.0,1000.0
+EX_dcsptn1_e,"Docosa-4,7,10,13,16-pentaenoic acid (n-6) exchange",-1000.0,1000.0
+EX_dcyt_e,Deoxycytidine exchange,-1000.0,1000.0
+EX_ddca_e,Dodecanoate (n-C12:0) exchange,-1000.0,1000.0
+EX_ddeccrn_e,Exchange of Lauroyl Carnitine,-1000.0,1000.0
+EX_ddece1crn_e,Exchange of Dodecenoyl Carnitine,-1000.0,1000.0
+EX_debrisoquine_e,EX debrisoquine e,-1000.0,1000.0
+EX_decdicrn_e,Exchange of Decadienoyl Carnitine,-1000.0,1000.0
+EX_deoxfvs_e,Exchange reaction for deoxy-fluvastatin-dinor in hepatic vein,-1000.0,1000.0
+EX_desfvs_e,Exchange reaction for N-desisopropyl-fluvastatin in bile,-1000.0,1000.0
+EX_dgchol_e,Chenodeoxyglycocholate exchange,-1000.0,1000.0
+EX_dgmp_e,DGMP exchange,-1000.0,1000.0
+EX_dgsn_e,Deoxyguanosine exchange,-1000.0,1000.0
+EX_dgtp_e,Exchange of dGTP,-1000.0,1000.0
+EX_dha_e,Dihydroxyacetone exchange,-1000.0,1000.0
+EX_dhap_e,Exchange of glycerone phosphate(2-),-1000.0,1000.0
+EX_dhbpt_e,"Exchange of 6,7-Dihydrobiopterin",-1000.0,1000.0
+EX_dhcholestanate_e,"Exchange of 3Alpha, 7Alpha-Dihydroxy-5Beta-Cholestanate",-1000.0,1000.0
+EX_dhdascb_e,Dehydroascorbate exchange,-1000.0,1000.0
+EX_dhea_e,Exchange of 3Beta-Hydroxyandrost-5-En-17-One,-1000.0,1000.0
+EX_dheas_e,Dehydroepiandrosterone sulfate exchange,-1000.0,1000.0
+EX_dhf_e,"7,8-Dihydrofolate exchange",-1000.0,1000.0
+EX_dhglz_e,Exchange reaction for dehydro-gliclazide in hepatic vein,-1000.0,1000.0
+EX_didecaeth_e,"Exchange of C12:0-Ethanolamide, Didecanoyl Ethanolamide",-1000.0,1000.0
+EX_digalsgalside_hs_e,Digalactosylceramidesulfate exchange,-1000.0,1000.0
+EX_diholineth_e,Exchange of Dihomo-Gamma-Linolenoyl Ethanolamide,-1000.0,1000.0
+EX_din_e,Deoxyinosine exchange,-1000.0,1000.0
+EX_ditp_e,EX ditp[e],-1000.0,1000.0
+EX_dlnlcg_e,Dihomo-gamma-linolenic acid (n-6) exchange,-1000.0,1000.0
+EX_dmantipyrine_e,Demethylated antipyrine exchange,-1000.0,1000.0
+EX_dmgly_e,"Exchange of N,N-Dimethylglycine",-1000.0,1000.0
+EX_dmhptcrn_e,"2,6 dimethylheptanoyl carnitine exchange",-1000.0,1000.0
+EX_doco13ac_e,Exchange of Docosenoic Acid (C22:1),-1000.0,1000.0
+EX_docohxeth_e,Exchange of Docosahexaenoyl Ethanolamide,-1000.0,1000.0
+EX_docosac_e,Exchange reaction for Behenic acid,-1000.0,1000.0
+EX_docosdiac_e,Exchange of Docosanedioic Acid,-1000.0,1000.0
+EX_docteteth_e,"Exchange of Docosatetraenoyl Ethanolamide (22:4, Delta 7, 10, 13, 16)",-1000.0,1000.0
+EX_dodecanac_e,Exchange of Dodecanedioic Acid,-1000.0,1000.0
+EX_dolichol__L_e,EX dolichol L[e],-1000.0,1000.0
+EX_dopa3glcur_e,Exchange of Dopamine 3-O-Glucuronide,-1000.0,1000.0
+EX_dopa4glcur_e,Exchange of Dopamine 4-O-Glucuronide,-1000.0,1000.0
+EX_dopa4sf_e,Exchange of Dopamine 4-O-Sulfate,-1000.0,1000.0
+EX_dopa_e,Dopamine exchange,-1000.0,1000.0
+EX_dopasf_e,Dopamine 3-O-sulfate exchange,-1000.0,1000.0
+EX_dpcoa_e,Exchange reaction for dpcoa,-1000.0,1000.0
+EX_drib_e,Deoxy D Ribose exchange,-1000.0,1000.0
+EX_dsT_antigen_e,Exchange of Disialyl-T Antigen,-1000.0,1000.0
+EX_dsmsterol_e,Exchange of Desmosterol,-1000.0,1000.0
+EX_dspvs_e,Exchange reaction of desacyl dehydro-pravastatin in hepatic vein,-1000.0,1000.0
+EX_dtdp_e,"({[(2R,3S,5R)-3-hydroxy-5-(5-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)oxolan-2-yl]methyl phosphonato}oxy)phosphonate exchange",-1000.0,1000.0
+EX_dtmp_e,DTMP exchange,-1000.0,1000.0
+EX_dttp_e,DTTP exchange,-1000.0,1000.0
+EX_duri_e,Deoxyuridine exchange,-1000.0,1000.0
+EX_dxtrn_e,Exchange of Phosphorylase-Limit Dextrin,-1000.0,1000.0
+EX_eaflatoxin_e,"8,9 epxoy aflatoxin B1 exchange",-1000.0,1000.0
+EX_eandrstrn_e,Exchange of 16Alpha-Hydroxydehydroepiandrosterone,-1000.0,1000.0
+EX_ebastine_e,Ebastine exchange,-1000.0,1000.0
+EX_ebastineoh_e,Hydroxylated ebastine exchange,-1000.0,1000.0
+EX_egme_e,Exchange of Succinic Semialdehyde,-1000.0,1000.0
+EX_eic21114tr_e,"Exchange of Trans, Cis, Cis-2, 11, 14-Eicosatrienoic Acid",-1000.0,1000.0
+EX_eicostet_e,Eicosatetranoic acid exchange,-1000.0,1000.0
+EX_eidi1114ac_e,"Exchange of Cis, Cis-11, 14-Eicosadienoyl Coenzyme A",-1000.0,1000.0
+EX_elaid_e,Elaidic acid exchange,-1000.0,1000.0
+EX_elaidcrn_e,Exchange of Elaidic Carnitine,-1000.0,1000.0
+EX_epoxtac_e,"Exchange reaction for 31-O-Desmethyl,19-Hydroxy,37, 39-Epoxy-tacrolimus in hepatic vein",-1000.0,1000.0
+EX_estradiol_e,Estradiol exchange,-1000.0,1000.0
+EX_estradiolglc_e,Estradiol glucuronide exchange,-1000.0,1000.0
+EX_estriol_e,Exchange of Estriol,-1000.0,1000.0
+EX_estriolglc_e,16-Glucuronide-estriol exchange,-1000.0,1000.0
+EX_estrone_e,Exchange of Estrone,-1000.0,1000.0
+EX_estroneglc_e,Estrone glucuronide exchange,-1000.0,1000.0
+EX_estrones_e,Estrone 3-sulfate exchange,-1000.0,1000.0
+EX_etha_e,Ethanolamine exchange,-1000.0,1000.0
+EX_ethamp_e,Exchange of Ethanolamine Phosphate,-1000.0,1000.0
+EX_ethmalac_e,Exchange of Ethylmalonic Acid,-1000.0,1000.0
+EX_etoh_e,Ethanol exchange,-1000.0,1000.0
+EX_f1a_e,Exchange of F1Alpha (Mucin O-Glycan),-1000.0,1000.0
+EX_fad_e,Exchange of Flavin adenine dinucleotide oxidized,-1000.0,1000.0
+EX_fald_e,Formaldehyde exchange,-1000.0,1000.0
+EX_fdp_e,"Exchange of D-Fructose 1,6-Bisphosphate",-1000.0,1000.0
+EX_fe2_e,Fe2+ exchange,-1000.0,1000.0
+EX_fe3_e,Fe3+ exchange,-1000.0,1000.0
+EX_fmn_e,FMN exchange,-1000.0,1000.0
+EX_fna5moxam_e,Exchange of Formyl-N-Acetyl-5-Methoxykynurenamine,-1000.0,1000.0
+EX_fol_e,EX fol LPAREN e RPAREN,-1000.0,1000.0
+EX_for_e,Formate exchange,-1000.0,1000.0
+EX_forglu_e,Exchange of N-Formimidoyl-L-Glutamate,-1000.0,1000.0
+EX_fru_e,D-Fructose exchange,-1000.0,1000.0
+EX_fuc13galacglcgal14acglcgalgluside_hs_e,III3Fuc-nLc6Cer exchange,-1000.0,1000.0
+EX_fuc14galacglcgalgluside_hs_e,Lea glycolipid exchange,-1000.0,1000.0
+EX_fuc__L_e,L-Fucose exchange,-1000.0,1000.0
+EX_fucacgalfucgalacglcgalgluside_hs_e,(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1 exchange,-1000.0,1000.0
+EX_fucacngal14acglcgalgluside_hs_e,"IV3-a-NeuAc,III3-a-Fuc-nLc4Cer exchange",-1000.0,1000.0
+EX_fucacngalacglcgalgluside_hs_e,"IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer exchange",-1000.0,1000.0
+EX_fucfuc12gal14acglcgalgluside_hs_e,Ley glycolipid exchange,-1000.0,1000.0
+EX_fucfuc132galacglcgal14acglcgalgluside_hs_e,"V3Fuc,III3Fuc-nLc6Cer exchange",-1000.0,1000.0
+EX_fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs_e,(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)3 (Cer)1 exchange,-1000.0,1000.0
+EX_fucfucfucgalacglcgal14acglcgalgluside_hs_e,(Gal)3 (Glc)1 (GlcNAc)2 (LFuc)3 (Cer)1 exchange,-1000.0,1000.0
+EX_fucfucgalacglcgalgluside_hs_e,Leb glycolipid exchange,-1000.0,1000.0
+EX_fucgal14acglcgalgluside_hs_e,Lacto-N-fucopentaosyl III ceramide exchange,-1000.0,1000.0
+EX_fucgalfucgalacglcgalgluside_hs_e,(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1 exchange,-1000.0,1000.0
+EX_fucgalgbside_hs_e,Fucosyl galactosylgloboside (homo sapiens) exchange,-1000.0,1000.0
+EX_fum_e,Fumarate exchange,-1000.0,1000.0
+EX_fvs_e,Exchange reaction for fluvastatin in intestinal lumen,-1000.0,1000.0
+EX_fvstet_e,Exchange reaction for des-isopropyl-dihydro-fluvastatin-tetranor in hepatic vein,-1000.0,1000.0
+EX_fvstetglu_e,Exchange reaction for des-isopropyl-dihydro-fluvastatin-tetranor-glucuronide in hepatic vein,-1000.0,1000.0
+EX_g1p_e,D-Glucose 1-phosphate exchange,-1000.0,1000.0
+EX_g3pc_e,Sn-Glycero-3-phosphocholine exchange,-1000.0,1000.0
+EX_ga1_hs_e,Exchange of Gibberellin A1,-1000.0,1000.0
+EX_gal_e,D-Galactose exchange,-1000.0,1000.0
+EX_galacglcgalgbside_hs_e,Gal-GlcNAc-Gal globoside (homo sapiens) exchange,-1000.0,1000.0
+EX_galam_e,D Galactosamine exchange,-1000.0,1000.0
+EX_galfuc12gal14acglcgalgluside_hs_e,(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1 exchange,-1000.0,1000.0
+EX_galfucgalacglcgal14acglcgalgluside_hs_e,(Gal)4 (Glc)1 (GlcNAc)2 (LFuc)1 (Cer)1 exchange,-1000.0,1000.0
+EX_galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs_e,(Gal)6 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1 exchange,-1000.0,1000.0
+EX_galgalgalthcrm_hs_e,Gal-Gal-Gal-Gal-Gal-Glc-Cer (homo sapiens) exchange,-1000.0,1000.0
+EX_galgluside_hs_e,Exchange of Galactosyl Glucosyl Ceramide,-1000.0,1000.0
+EX_galside_hs_e,Exchange of D-Galactosyl-N-Acylsphingosine,-1000.0,1000.0
+EX_galt_e,Galactitol exchange,-1000.0,1000.0
+EX_gam_e,D-Glucosamine exchange,-1000.0,1000.0
+EX_gbside_hs_e,Globoside (homo sapiens) exchange,-1000.0,1000.0
+EX_gca3s_e,EX gca3s(e),-1000.0,1000.0
+EX_gcdca3s_e,EX gcdca3s(e),-1000.0,1000.0
+EX_gchola_e,Glycocholate exchange,-1000.0,1000.0
+EX_gd1a_hs_e,Exchange of Gd1A,-1000.0,1000.0
+EX_gd1b2_hs_e,GD1beta (homo sapiens) exchange,-1000.0,1000.0
+EX_gd1b_hs_e,Exchange of Gd1B,-1000.0,1000.0
+EX_gd1c_hs_e,GD1c (homo sapiens) exchange,-1000.0,1000.0
+EX_gd2_hs_e,Exchange of Gd2,-1000.0,1000.0
+EX_gd3_hs_e,Exchange/Demand Reaction,-1000.0,1000.0
+EX_gdca3s_e,EX gdca3s(e),-1000.0,1000.0
+EX_gdp_e,GDP exchange,-1000.0,1000.0
+EX_glc3meacp_e,Exchange reaction for glucuronide-conjugate of 3-methoxy-acetaminophen in hepatic vein,-1000.0,1000.0
+EX_glc__D_e,D-Glucose exchange,-1000.0,1000.0
+EX_glcn_e,D-Gluconate exchange,-1000.0,1000.0
+EX_glcr_e,D-Glucarate exchange,-1000.0,1000.0
+EX_glcur_e,D-Glucuronate exchange,-1000.0,1000.0
+EX_glgchlo_e,Exchange reaction for beta glucan-glycocholate complex,-1000.0,1000.0
+EX_gln__L_e,L-Glutamine exchange,-1000.0,1000.0
+EX_glnasngln_e,Exchange of GlnAsnGln,-1000.0,1000.0
+EX_glnhishis_e,Exchange of GlnHisHis,-1000.0,1000.0
+EX_glnhislys_e,Exchange of GlnHisLys,-1000.0,1000.0
+EX_glnlyslys_e,Exchange of GlnLysLys,-1000.0,1000.0
+EX_glnlystrp_e,Exchange of GlnLysTrp,-1000.0,1000.0
+EX_glnproglu_e,Exchange of GlnProGlu,-1000.0,1000.0
+EX_glntrpglu_e,Exchange of GlnTrpGlu,-1000.0,1000.0
+EX_glntyrleu_e,Exchange of GlntyrLeu,-1000.0,1000.0
+EX_gltcho_e,Exchange reaction for beta glucan-taurocholic acid complex,-1000.0,1000.0
+EX_gltdechol_e,Exchange reaction for beta glucan-taurodeoxycholic acid complex,-1000.0,1000.0
+EX_glu__L_e,L-Glutamate exchange,-1000.0,1000.0
+EX_gluala_e,5-L-Glutamyl-L-alanine exchange,-1000.0,1000.0
+EX_gluargleu_e,Exchange of GluArgLeu,-1000.0,1000.0
+EX_gluasnleu_e,Exchange of GluAsnLeu,-1000.0,1000.0
+EX_glucys_e,Exchange of Gamma-L-Glutamyl-L-Cysteine,-1000.0,1000.0
+EX_gluglu_e,Exchange of GluGlu,-1000.0,1000.0
+EX_gluilelys_e,Exchange of GluIleLys,-1000.0,1000.0
+EX_gluleu_e,Exchange of GluLeu,-1000.0,1000.0
+EX_glumet_e,Exchange of GluMet,-1000.0,1000.0
+EX_glumethis_e,Exchange of GluMetHis,-1000.0,1000.0
+EX_gluside_hs_e,Exchange/Demand Reaction,-1000.0,1000.0
+EX_glutcon_e,Exchange of Glutaconate,-1000.0,1000.0
+EX_gluthr_e,Exchange of GluThr,-1000.0,1000.0
+EX_gluthrlys_e,Exchange of GluThrLys,-1000.0,1000.0
+EX_glutrpala_e,Exchange of GluTrpAla,-1000.0,1000.0
+EX_glx_e,Glyoxylate exchange,-1000.0,1000.0
+EX_gly_e,Glycine exchange,-1000.0,1000.0
+EX_glyald_e,D-Glyceraldehyde exchange,-1000.0,1000.0
+EX_glyb_e,Glycine betaine exchange,-1000.0,1000.0
+EX_glyc2p_e,Glycerol 2-phosphate exchange,-1000.0,1000.0
+EX_glyc3p_e,Glycerol 3-phosphate exchange,-1000.0,1000.0
+EX_glyc__R_e,(R)-Glycerate exchange,-1000.0,1000.0
+EX_glyc__S_e,(S)-Glycerate exchange,-1000.0,1000.0
+EX_glyc_e,Glycerol exchange,-1000.0,1000.0
+EX_glyclt_e,Glycolate exchange,-1000.0,1000.0
+EX_glygly_e,Exchange reaction for glycylglycine,-1000.0,1000.0
+EX_glygn2_e,"Glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]}) exchange",-1000.0,1000.0
+EX_glygn4_e,"Glycogen, structure 4 (glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]}) exchange",-1000.0,1000.0
+EX_glygn5_e,"Glycogen, structure 5 (glycogenin-2[1,4-Glc]) exchange",-1000.0,1000.0
+EX_glyhisasn_e,Exchange of GlyHisAsn,-1000.0,1000.0
+EX_glyhislys_e,Exchange of GlyHisLys,-1000.0,1000.0
+EX_glyleu_e,Glycylleucine exchange,-1000.0,1000.0
+EX_glylyscys_e,Exchange of GlyLysCys,-1000.0,1000.0
+EX_glylysphe_e,Exchange of GlyLysPhe,-1000.0,1000.0
+EX_glyphe_e,Exchange reaction for glycylphenylalaine,-1000.0,1000.0
+EX_glypro_e,Glycylproline exchange,-1000.0,1000.0
+EX_glysar_e,Exchange reaction for glycylsarcosine,-1000.0,1000.0
+EX_glytyrlys_e,Exchange of GlytyrLys,-1000.0,1000.0
+EX_glyvalhis_e,Exchange of GlyValHis,-1000.0,1000.0
+EX_glz_e,Exchange reaction for gliclazide in intestinal lumen,-1000.0,1000.0
+EX_gm1_hs_e,Exchange of Ganglioside Gm1,-1000.0,1000.0
+EX_gm1b_hs_e,Exchange of Gm1B,-1000.0,1000.0
+EX_gm2_hs_e,Exchange of N-Acetyl-Beta-D-Galactosaminyl-(1->4)-[Alpha-N-Acetylneuraminosyl-(2->3)]-Beta-D-Galactosyl-Beta-D-Glucosyl-(1<->1)-Ceramide Anion,-1000.0,1000.0
+EX_gm3_hs_e,Exchange/Demand Reaction,-1000.0,1000.0
+EX_gmp_e,GMP exchange,-1000.0,1000.0
+EX_gncore1_e,Exchange of gncore 1 (Mucin O-Glycan),-1000.0,1000.0
+EX_gncore2_e,"Exchange of GlcNac-Alpha-1, 4-Core 2",-1000.0,1000.0
+EX_gp1c_hs_e,GP1c (homo sapiens) exchange,-1000.0,1000.0
+EX_gp1calpha_hs_e,GP1c alpha  (homo sapiens) exchange,-1000.0,1000.0
+EX_gpi_sig_e,EX gpi sig[e],-1000.0,1000.0
+EX_gq1b_hs_e,GQ1b (homo sapiens) exchange,-1000.0,1000.0
+EX_gq1balpha_hs_e,GQ1balpha (homo sapiens) exchange,-1000.0,1000.0
+EX_gsn_e,Guanosine exchange,-1000.0,1000.0
+EX_gt1a_hs_e,GT1a (homo sapiens) exchange,-1000.0,1000.0
+EX_gt1b_hs_e,Exchange of Gt1B,-1000.0,1000.0
+EX_gtacmp_e,Exchange reaction for glucuronide-thiomethyl-acetaminophen conjugate in hepatic vein,-1000.0,1000.0
+EX_gthox_e,Oxidized glutathione exchange,-1000.0,1000.0
+EX_gthrd_e,Reduced glutathione exchange,-1000.0,1000.0
+EX_gtp_e,GTP exchange,-1000.0,1000.0
+EX_gua_e,Guanine exchange,-1000.0,1000.0
+EX_gudac_e,Exchange of Guanidinoacetic Acid,-1000.0,1000.0
+EX_gudca3s_e,EX gudca3s(e),-1000.0,1000.0
+EX_gum_e,Exchange reaction for guar gums,-1000.0,1000.0
+EX_gumdchac_e,Exchange reaction for guar gum-deoxyxholic acid complex,-1000.0,1000.0
+EX_gumgchol_e,Exchange reaction for guar gum-glycocholate complex,-1000.0,1000.0
+EX_gumtchol_e,Exchange reaction for guar gum-taurocholic acid complex,-1000.0,1000.0
+EX_h2co3_e,EX h2co3 LPAREN e RPAREN,-1000.0,1000.0
+EX_h2o2_e,Hydrogen peroxide exchange,-1000.0,1000.0
+EX_h2o_e,H2O exchange,-1000.0,1000.0
+EX_hLkynr_e,Exchange,-1000.0,1000.0
+EX_h_e,H+ exchange,-1000.0,1000.0
+EX_ha_e,Hyaluronan exchange,-1000.0,1000.0
+EX_ha_pre1_e,"Hyaluronan biosynthesis, precursor 1 exchange",-1000.0,1000.0
+EX_hca24g_e,EX hca24g(e),-1000.0,1000.0
+EX_hca6g_e,EX hca6g(e),-1000.0,1000.0
+EX_hco3_e,EX hco3 LPAREN e RPAREN,-1000.0,1000.0
+EX_hcoumarin_e,Hydroxy coumarin exchange,-1000.0,1000.0
+EX_hcys__L_e,L-homocysteine exchange,-1000.0,1000.0
+EX_hdca24g_e,EX hdca24g(e),-1000.0,1000.0
+EX_hdca6g_e,EX hdca6g(e),-1000.0,1000.0
+EX_hdca_e,Hexadecanoate (n-C16:0) exchange,-1000.0,1000.0
+EX_hdcea_e,Hexadecenoate (n-C16:1) exchange,-1000.0,1000.0
+EX_hdcecrn_e,Exchange of Palmitoleoyl-Carnitine,-1000.0,1000.0
+EX_hdd2crn_e,Exchange of Trans-Hexadec-2-Enoyl Carnitine,-1000.0,1000.0
+EX_hdl_hs_e,Exchange of HDL Hs,-1000.0,1000.0
+EX_hepdeceth_e,Exchange of Heptadecanoyl Thanolamide (C17:0),-1000.0,1000.0
+EX_hestratriol_e,"4,17 dihydroxy estradiol exchange",-1000.0,1000.0
+EX_hexc_e,Hexacosanoate  n C260  exchange,-1000.0,1000.0
+EX_hexdeceeth_e,"Exchange of Hexadecenoyl Ethanolamide, C16:1-Ethanolamide (Delta 9)",-1000.0,1000.0
+EX_hexdiac_e,Exchange of Hexadecanediocacid,-1000.0,1000.0
+EX_hexdtr_e,"Exchange of 7, 10, 13-Hexadecatrienoic Acid",-1000.0,1000.0
+EX_hexgly_e,Exchange of Hexanoyl-Glycine,-1000.0,1000.0
+EX_hgentis_e,Exchange of Homogentisate,-1000.0,1000.0
+EX_his__L_e,L-Histidine exchange,-1000.0,1000.0
+EX_hisargcys_e,Exchange of HisArgCys,-1000.0,1000.0
+EX_hisargser_e,Exchange of HisArgSer,-1000.0,1000.0
+EX_hisasp_e,Exchange of HisAsp,-1000.0,1000.0
+EX_hiscyscys_e,Exchange of HisCysCys,-1000.0,1000.0
+EX_hisglnala_e,Exchange of HisGlnAla,-1000.0,1000.0
+EX_hisglu_e,Exchange of HisGlu,-1000.0,1000.0
+EX_hisglugln_e,Exchange of HisGluGln,-1000.0,1000.0
+EX_hisglylys_e,Exchange of HisGlyLys,-1000.0,1000.0
+EX_hishislys_e,Exchange of HisHisLys,-1000.0,1000.0
+EX_hislysala_e,Exchange of HisLysAla,-1000.0,1000.0
+EX_hislysglu_e,Exchange of HisLysGlu,-1000.0,1000.0
+EX_hislysile_e,Exchange of HisLysIle,-1000.0,1000.0
+EX_hislysthr_e,Exchange of HisLysThr,-1000.0,1000.0
+EX_hislysval_e,Exchange of HisLysVal,-1000.0,1000.0
+EX_hismet_e,Exchange of HisMet,-1000.0,1000.0
+EX_hismetgln_e,Exchange of HisMetGln,-1000.0,1000.0
+EX_hisphearg_e,Exchange of HisPheArg,-1000.0,1000.0
+EX_hisprolys_e,Exchange of HisProLys,-1000.0,1000.0
+EX_hista_e,Histamine exchange,-1000.0,1000.0
+EX_histrphis_e,Exchange of HisTrpHis,-1000.0,1000.0
+EX_hmcarn_e,Exchange of Homocarnosine,-1000.0,1000.0
+EX_hmcr_e,Exchange of Homocitrulline,-1000.0,1000.0
+EX_hnifedipine_e,EX hnifedipine[e],-1000.0,1000.0
+EX_hom__L_e,L-Homoserine exchange,-1000.0,1000.0
+EX_homoval_e,Exchange of Homovanillate,-1000.0,1000.0
+EX_hpdca_e,Heptadecanoate exchange,-1000.0,1000.0
+EX_hpdece_e,Exchange of Trans-Delta-2-Heptadecanoic Acid,-1000.0,1000.0
+EX_hretn_e,EX hretn[e],-1000.0,1000.0
+EX_hspg_e,Heparan sulfate proteoglycan exchange,-1000.0,1000.0
+EX_htaxol_e,Hydroxylated taxol exchange,-1000.0,1000.0
+EX_hxa_e,Hexanoate (n-C6:0) exchange,-1000.0,1000.0
+EX_hxan_e,Hypoxanthine exchange,-1000.0,1000.0
+EX_hxcoa_e,Exchange of Hexanoate,-1000.0,1000.0
+EX_hyochol_e,EX hyochol(e),-1000.0,1000.0
+EX_hyptaur_e,Exchange of hypotaurine,-1000.0,1000.0
+EX_i_e,Iodide exchange,-1000.0,1000.0
+EX_ibup__R_e,Exchange reaction for ibuprofen R in intestinal lumen,-1000.0,1000.0
+EX_ibup__S_e,Exchange reaction for ibuprofen S in intestinal lumen,-1000.0,1000.0
+EX_ibupgluc_e,Exchange reaction for ibuprofen acyl glucuronide in portal blood,-1000.0,1000.0
+EX_icdchol_e,EX icdchol(e),-1000.0,1000.0
+EX_icit_e,Isocitrate exchange,-1000.0,1000.0
+EX_idl_hs_e,Exchange of IDL Hs,-1000.0,1000.0
+EX_idour_e,Exchange of L-iduronate,-1000.0,1000.0
+EX_idp_e,IDP exchange,-1000.0,1000.0
+EX_ile__L_e,L-Isoleucine exchange,-1000.0,1000.0
+EX_ileargile_e,Exchange of IleArgIle,-1000.0,1000.0
+EX_ileasnhis_e,Exchange of IleAsnHis,-1000.0,1000.0
+EX_ileasp_e,Exchange of IleAsp,-1000.0,1000.0
+EX_ileglnglu_e,Exchange of IleGlnGlu,-1000.0,1000.0
+EX_ileglyarg_e,Exchange of IleGlyArg,-1000.0,1000.0
+EX_ileprolys_e,Exchange of IleProLys,-1000.0,1000.0
+EX_ileserarg_e,Exchange of IleSerArg,-1000.0,1000.0
+EX_iletrptyr_e,Exchange of IleTrptyr,-1000.0,1000.0
+EX_im4ac_e,Exchange of Imidazol-4-Ylacetate,-1000.0,1000.0
+EX_imp_e,IMP exchange,-1000.0,1000.0
+EX_ind3ac_e,EX ind3ac LPAREN e RPAREN,-1000.0,1000.0
+EX_inost_e,Myo-Inositol exchange,-1000.0,1000.0
+EX_ins_e,Inosine exchange,-1000.0,1000.0
+EX_isochol_e,EX isochol(e),-1000.0,1000.0
+EX_isolvstacid_e,"Exchange reaction for 3-hydroxy-iso-delta-4,5-hydroxy acid form of lovastatin in bile",-1000.0,1000.0
+EX_isomal_e,Exchange of Isomaltose,-1000.0,1000.0
+EX_itacon_e,EX itacon[e],-1000.0,1000.0
+EX_itp_e,Exchange of ITP,-1000.0,1000.0
+EX_ivcrn_e,Exchange reaction for isovaleryl carnitine,-1000.0,1000.0
+EX_k_e,K+ exchange,-1000.0,1000.0
+EX_kdn_e,EX kdn[e],-1000.0,1000.0
+EX_ksi_deg1_e,"Keratan sulfate I, degradation product 1 exchange",-1000.0,1000.0
+EX_ksi_e,Keratan sulfate I exchange,-1000.0,1000.0
+EX_ksii_core2_e,Keratan sulfate II (core 2-linked) exchange,-1000.0,1000.0
+EX_ksii_core4_e,Keratan sulfate II (core 4-linked) exchange,-1000.0,1000.0
+EX_kynate_e,Exchange of Kynurenic Acid,-1000.0,1000.0
+EX_lac__D_e,D-lactate exchange,-1000.0,1000.0
+EX_lac__L_e,L-Lactate exchange,-1000.0,1000.0
+EX_lanost_e,Lanosterol exchange,-1000.0,1000.0
+EX_lca24g_e,EX lca24g(e),-1000.0,1000.0
+EX_lca3g_e,EX lca3g(e),-1000.0,1000.0
+EX_lca3s_e,EX lca3s(e),-1000.0,1000.0
+EX_lcts_e,Lactose exchange,-1000.0,1000.0
+EX_ldl_hs_e,Exchange of LDL Hs,-1000.0,1000.0
+EX_leu__L_e,L-Leucine exchange,-1000.0,1000.0
+EX_leualaarg_e,Exchange of LeuAlaArg,-1000.0,1000.0
+EX_leuasnasp_e,Exchange of LeuAsnAsp,-1000.0,1000.0
+EX_leuasplys_e,Exchange of LeuAspLys,-1000.0,1000.0
+EX_leugly_e,Exchange reaction for leucylglycine,-1000.0,1000.0
+EX_leuktrA4_e,Leukotriene A4 exchange,-1000.0,1000.0
+EX_leuktrB4_e,Leukotriene B4 exchange,-1000.0,1000.0
+EX_leuktrB4wcooh_e,Exchange of W-Carboxy Leukotriene B4,-1000.0,1000.0
+EX_leuktrB4woh_e,Exchnage for W-Hydroxyl Leukotriene B4,-1000.0,1000.0
+EX_leuktrC4_e,Leukotriene C4 exchange,-1000.0,1000.0
+EX_leuktrD4_e,Leukotriene D4 exchange,-1000.0,1000.0
+EX_leuktrE4_e,Leukotriene E4 exchange,-1000.0,1000.0
+EX_leuktrF4_e,Leukotriene F4 exchange,-1000.0,1000.0
+EX_leuleu_e,Exchange reaction for leucylleucine,-1000.0,1000.0
+EX_leuleutrp_e,Exchange of LeuLeuTrp,-1000.0,1000.0
+EX_leupro_e,Exchange of LeuPro,-1000.0,1000.0
+EX_leuproarg_e,Exchange of LeuProArg,-1000.0,1000.0
+EX_leusertrp_e,Exchange of LeuSerTrp,-1000.0,1000.0
+EX_leutrp_e,Exchange of LeuTrp,-1000.0,1000.0
+EX_leutrparg_e,Exchange of LeuTrpArg,-1000.0,1000.0
+EX_leutyrtyr_e,Exchange of Leutyrtyr,-1000.0,1000.0
+EX_leuval_e,Exchange of LeuVal,-1000.0,1000.0
+EX_lgnc_e,Lignoceric acid exchange,-1000.0,1000.0
+EX_limnen_e,Limonene exchange,-1000.0,1000.0
+EX_lineth_e,Exchange of Linoleoyl Ethanolamide,-1000.0,1000.0
+EX_lipoate_e,Lipoate exchange,-1000.0,1000.0
+EX_lneldc_e,Linoelaidic acid exchange,-1000.0,1000.0
+EX_lneldccrn_e,"Exchange of 6Z,9Z-Octadecadienoylcarnitine",-1000.0,1000.0
+EX_lnlc_e,Linoleic acid (all cis C18:2) exchange,-1000.0,1000.0
+EX_lnlccrn_e,Exchange of Linoleyl Carnitine,-1000.0,1000.0
+EX_lnlnca_e,Alpha-Linolenic acid exchange,-1000.0,1000.0
+EX_lnlncg_e,Gamma-linolenic acid exchange,-1000.0,1000.0
+EX_lpam_e,Exchange of Lipoamide,-1000.0,1000.0
+EX_lpchol_hs_e,Lysophosphatidylcholine (homo sapiens) exchange,-1000.0,1000.0
+EX_lst4exp_e,Exchange reaction for Losartan-E3174 in portal blood,-1000.0,1000.0
+EX_lstn1gluc_e,Exchange reaction for Losartan-N1-glucuronide in hepatic vein,-1000.0,1000.0
+EX_lstn_e,Exchange reaction for losartan in intestinal lumen,-1000.0,1000.0
+EX_lstnm1_e,Exchange reaction for Losartan-M1 in hepatic vein,-1000.0,1000.0
+EX_lstnm2_e,Exchange reaction for Losartan-M2 in hepatic vein,-1000.0,1000.0
+EX_lstnm4_e,Exchange reaction for Losartan-M4 (glucuronide derivative) in hepatic vein,-1000.0,1000.0
+EX_lstnm5_e,Exchange reaction for Losartan-M5 in hepatic vein,-1000.0,1000.0
+EX_lstnm7_e,Exchange reaction for Losartan-N2-glucuronide / Losartan-M7 in portal blood,-1000.0,1000.0
+EX_lthstrl_e,Exchange of Lathosterol,-1000.0,1000.0
+EX_lvst_e,Exchange reaction for lovastatin in intestinal lumen,-1000.0,1000.0
+EX_lvstacid_e,EX lvstacid(e),-1000.0,1000.0
+EX_lys__L_e,L-Lysine exchange,-1000.0,1000.0
+EX_lysargleu_e,Exchange of LysArgLeu,-1000.0,1000.0
+EX_lyscyshis_e,Exchange of LysCysHis,-1000.0,1000.0
+EX_lysglnphe_e,Exchange of LysGlnPhe,-1000.0,1000.0
+EX_lysgluglu_e,Exchange of LysGluGlu,-1000.0,1000.0
+EX_lyslyslys_e,Exchange of LysLysLys,-1000.0,1000.0
+EX_lyspheile_e,Exchange of LysPheIle,-1000.0,1000.0
+EX_lystrparg_e,Exchange of LysTrpArg,-1000.0,1000.0
+EX_lystyrile_e,Exchange of LystyrIle,-1000.0,1000.0
+EX_lysvalphe_e,Exchange of LysValPhe,-1000.0,1000.0
+EX_lysvaltrp_e,Exchange of LysValTrp,-1000.0,1000.0
+EX_m3gacpail_prot_hs_e,EX m3gacpail prot hs[e],-1000.0,1000.0
+EX_mag_hs_e,Monoacylglycerol 2 (homo sapiens) exchange,-1000.0,1000.0
+EX_magarachi_hs_e,Exchange of 1-Arachidonoyl Glycerol,-1000.0,1000.0
+EX_maglinl_hs_e,Exchange of 1-Linoleoylglycerol,-1000.0,1000.0
+EX_magole_hs_e,Exchange of 1-Oleoylglycerol,-1000.0,1000.0
+EX_magpalm_hs_e,Exchange of 1-Palmitoylglycerol,-1000.0,1000.0
+EX_magste_hs_e,Exchange of 1-Stearoylglycerol,-1000.0,1000.0
+EX_mal__L_e,L-Malate exchange,-1000.0,1000.0
+EX_malcoa_e,Malonyl-CoA(4-) exchange,-1000.0,1000.0
+EX_malt_e,Maltose exchange,-1000.0,1000.0
+EX_malthp_e,EX malthp LPAREN e RPAREN,-1000.0,1000.0
+EX_malthx_e,Maltohexaose exchange,-1000.0,1000.0
+EX_maltpt_e,Maltopentaose exchange,-1000.0,1000.0
+EX_malttr_e,Maltotriose exchange,-1000.0,1000.0
+EX_maltttr_e,Maltotetraose exchange,-1000.0,1000.0
+EX_man_e,D-Mannose exchange,-1000.0,1000.0
+EX_mdz_e,Exchange reaction for midazolam in intestinal lumen,-1000.0,1000.0
+EX_mdzglc_e,Exchange reaction for midazolam-glucuronide in hepatic vein,-1000.0,1000.0
+EX_melatn_e,Exchange of Melatonine,-1000.0,1000.0
+EX_mem2emgacpail_prot_hs_e,HMR 9712,-1000.0,1000.0
+EX_meoh_e,Methanol exchange,-1000.0,1000.0
+EX_mepi_e,Metanephrine exchange,-1000.0,1000.0
+EX_meracmp_e,Exchange reaction for acetaminophen-mercapturate-conjugate in portal blood,-1000.0,1000.0
+EX_mercplaccys_e,3-mercaptolactate-cysteine disulfide exchange,-1000.0,1000.0
+EX_met__L_e,L-Methionine exchange,-1000.0,1000.0
+EX_metargleu_e,Exchange of MetArgLeu,-1000.0,1000.0
+EX_metasntyr_e,Exchange of MetAsntyr,-1000.0,1000.0
+EX_metglntyr_e,Exchange of MetGlntyr,-1000.0,1000.0
+EX_metglyarg_e,Exchange of MetGlyArg,-1000.0,1000.0
+EX_methislys_e,Exchange of MetHisLys,-1000.0,1000.0
+EX_methsucc_e,Exchange of Methyl-Succinate,-1000.0,1000.0
+EX_metmetile_e,Exchange of MetMetIle,-1000.0,1000.0
+EX_metphearg_e,Exchange of MetPheArg,-1000.0,1000.0
+EX_mettrpphe_e,Exchange of MetTrpPhe,-1000.0,1000.0
+EX_mev__R_e,Exchange of (R)-Mevalonate,-1000.0,1000.0
+EX_mhglz_e,Exchange reaction for Methyl-hydroxy-gliclazide in hepatic vein,-1000.0,1000.0
+EX_mhista_e,Exchange of N(Tele)-Methylhistaminium,-1000.0,1000.0
+EX_mi1p__D_e,Exchange of Myo-Inositol 1-Phosphate,-1000.0,1000.0
+EX_mlthf_e,"Exchange of 5,10-Methylenetetrahydrofolate",-1000.0,1000.0
+EX_mma_e,EX mma LPAREN e RPAREN,-1000.0,1000.0
+EX_mqn10_e,Exchange of Menaquinone 10,-1000.0,1000.0
+EX_mqn11_e,Exchange of Menaquinone 11,-1000.0,1000.0
+EX_mqn7_e,Exchange of Menaquinone 7,-1000.0,1000.0
+EX_mqn8_e,Exchange of Menaquinone 8,-1000.0,1000.0
+EX_mqn9_e,Exchange of Menaquinone 9,-1000.0,1000.0
+EX_mthgxl_e,Methylglyoxal exchange,-1000.0,1000.0
+EX_mvlac_e,Exchange of Mevalonate-Lactone,-1000.0,1000.0
+EX_n2m2nmasn_e,"N-Acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminyl-R exchange",-1000.0,1000.0
+EX_n5m2masn_e,EX n5m2masn[e],-1000.0,1000.0
+EX_n8aspmd_e,Exchange of N(8)-Acetylspermidine,-1000.0,1000.0
+EX_na1_e,Sodium exchange,-1000.0,1000.0
+EX_nac_e,Nicotinate exchange,-1000.0,1000.0
+EX_nacvanala_e,Exchange of Acetyl-Vanilalanine,-1000.0,1000.0
+EX_nad_e,Nicotinamide adenine dinucleotide exchange,-1000.0,1000.0
+EX_nadh_e,Exchange of Nicotinamide Adenine Dinucleotide - Reduced,-1000.0,1000.0
+EX_nadp_e,Nicotinamide adenine dinucleotide phosphate exchange,-1000.0,1000.0
+EX_ncam_e,Nicotinamide exchange,-1000.0,1000.0
+EX_ndersv_e,Exchange reaction for N-desmethyl-rosuvastatin in bile,-1000.0,1000.0
+EX_nfd_e,Exchange reaction for nifedipine in intestinal lumen,-1000.0,1000.0
+EX_nfdac_e,Exchange reaction of acid metabolite of nifedipine in portal vein,-1000.0,1000.0
+EX_nfdlac_e,Exchange reaction of lactone form of nifedipine in portal vein,-1000.0,1000.0
+EX_nfdnpy_e,Exchange reaction of nitropyridine metabolite of nifedipine in portal vein,-1000.0,1000.0
+EX_nfdoh_e,Exchange reaction of hydroxy metabolite of nifedipine in portal vein,-1000.0,1000.0
+EX_nh4_e,Ammonia exchange,-1000.0,1000.0
+EX_nicrnt_e,Exchange,-1000.0,1000.0
+EX_nifedipine_e,Nifedipine exchange,-1000.0,1000.0
+EX_no2_e,Nitrite exchange,-1000.0,1000.0
+EX_no_e,Nitric oxide exchange,-1000.0,1000.0
+EX_normete__L_e,L-Normetanephrine exchange,-1000.0,1000.0
+EX_npthl_e,Naphthalene exchange,-1000.0,1000.0
+EX_nrpphr_e,Norepinephrine exchange,-1000.0,1000.0
+EX_nrpphrsf_e,Sulfate derivative of norepinephrine exchange,-1000.0,1000.0
+EX_nrvnc_e,Nervonic acid exchange,-1000.0,1000.0
+EX_nwharg_e,Exchange of N- (Omega)-Hydroxyarginine,-1000.0,1000.0
+EX_o2_e,O2 exchange,-1000.0,1000.0
+EX_o2s_e,Superoxide anion exchange,-1000.0,1000.0
+EX_oaa_e,Oxaloacetate exchange,-1000.0,1000.0
+EX_oagd3_hs_e,9-O-Acetylated GD3 (homo sapiens) exchange,-1000.0,1000.0
+EX_oagt3_hs_e,9-O-Acetylated GT3 (homo sapiens) exchange,-1000.0,1000.0
+EX_ocdca_e,Octadecanoate (n-C18:0) exchange,-1000.0,1000.0
+EX_ocdcea_e,Octadecenoate (n-C18:1) exchange,-1000.0,1000.0
+EX_octa_e,Octanoate (n-C8:0) exchange,-1000.0,1000.0
+EX_odecrn_e,Exchange of L-Oleoylcarnitine,-1000.0,1000.0
+EX_oh1_e,OH1 Exchange,-1000.0,1000.0
+EX_oleth_e,Exchange of Oleoyl Ethanolamide,-1000.0,1000.0
+EX_omeprazole_e,Omeprazole exchange,-1000.0,1000.0
+EX_onpthl_e,Naphthalene epoxide exchange,-1000.0,1000.0
+EX_orn__D_e,Exchange of Ornithine,-1000.0,1000.0
+EX_orn_e,Ornithine exchange,-1000.0,1000.0
+EX_orot5p_e,Exchange,-1000.0,1000.0
+EX_orot_e,Orotate exchange,-1000.0,1000.0
+EX_oxa_e,Oxalate exchange,-1000.0,1000.0
+EX_oxy1rb_e,Exchange reaction for oxypurinol-1-riboside in hepatic vein,-1000.0,1000.0
+EX_oxy7rb_e,Exchange reaction for oxypurinol-7-riboside in hepatic vein,-1000.0,1000.0
+EX_oxyp_e,Exchange reaction for oxypurinol in portal blood,-1000.0,1000.0
+EX_pa_hs_e,Exchange of Phosphatidate,-1000.0,1000.0
+EX_pac_e,Phenylacetic acid exchange,-1000.0,1000.0
+EX_paf_hs_e,1-alkyl 2-acteylglycerol 3-phosphocholine (homo sapiens) exchange,-1000.0,1000.0
+EX_pail_hs_e,Exchange of 1-Phosphatidyl-1D-Myo-Inositol,-1000.0,1000.0
+EX_pailar_hs_e,Exchange of 1-Arachidonoylglycerophosphoinositol,-1000.0,1000.0
+EX_pailpalm_hs_e,Exchange of 1-Palmitoylglycerophosphoinositol,-1000.0,1000.0
+EX_pailste_hs_e,Exchange of 1-Stearoylglycerophosphoinositol,-1000.0,1000.0
+EX_pan4p_e,Exchange reaction for pan4p,-1000.0,1000.0
+EX_pchol2linl_hs_e,Exchange of 2-Linoleoylglycerophosphocholine,-1000.0,1000.0
+EX_pchol2ole_hs_e,Exchange of 2-Oleoylglycerophosphocholine,-1000.0,1000.0
+EX_pchol2palm_hs_e,Exchange of 2-Palmitoylglycerophosphocholine,-1000.0,1000.0
+EX_pchol2ste_hs_e,Exchange of 2-Stearoylglycerophosphocholine,-1000.0,1000.0
+EX_pchol_hs_e,Phosphatidylcholine (homo sapiens) exchange,-1000.0,1000.0
+EX_pcholar_hs_e,Exchange of 1-Arachidonoyl-Glycero-3-Phosphocholine,-1000.0,1000.0
+EX_pcholdoc_hs_e,Exchange of 1-Docosahexaenoylglycerophosphocholine,-1000.0,1000.0
+EX_pcholeic_hs_e,"Exchange of 1-Eicosadienoylglycerophosphocholine (Delta 11, 14)",-1000.0,1000.0
+EX_pcholet_hs_e,"Exchange of 1-Eicosatrienoylglycerophosphocholine (Delta 11, 14, 17)",-1000.0,1000.0
+EX_pcholhep_hs_e,Exchange of 1-Heptadecanoylglycerophosphocholine,-1000.0,1000.0
+EX_pchollinl_hs_e,"Exchange of 1-Linoleoylglycerophosphocholine (Delta 9, 12)",-1000.0,1000.0
+EX_pcholmyr_hs_e,Exchange of 1-Myristoylglycerophosphocholine,-1000.0,1000.0
+EX_pcholn15_hs_e,"Exchange of 1-Pentadecanoylglycerophosphocholine, Sn1-Lpc (15:0)",-1000.0,1000.0
+EX_pcholn1836_hs_e,"Exchange of 1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 6, 9, 12)",-1000.0,1000.0
+EX_pcholn183_hs_e,"Exchange of 1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 9, 12, 15)",-1000.0,1000.0
+EX_pcholn19_hs_e,"Exchange of 1-NoNADecanoylglycerophosphocholine, Sn1-Lpc (19:0)",-1000.0,1000.0
+EX_pcholn201_hs_e,"Exchange of 1-Eicosenoylglycerophosphocholine (Delta 11) , Sn1-Lpc (20:1)",-1000.0,1000.0
+EX_pcholn203_hs_e,"Exchange of 1-Dihomo-Linolenoylglycerophosphocholine (20:3, Delta 8, 11, 14), Lysopc A C20:3",-1000.0,1000.0
+EX_pcholn204_hs_e,"Exchange of 1-Eicosatetraenoylglycerophosphocholine (Delta 8, 11, 14, 17), Sn1-Lpc (20:4)",-1000.0,1000.0
+EX_pcholn205_hs_e,"Exchange of 1-Eicosapentenoylglycerophosphocholine (Delta 5, 8, 11, 14, 17), Sn1-Lpc (20:5)",-1000.0,1000.0
+EX_pcholn224_hs_e,"Exchange of 1-Docosatetraenoylglycerophosphocholine (Delta 7, 10, 13, 16), Sn1-Lpc (22:4)",-1000.0,1000.0
+EX_pcholn2254_hs_e,"Exchange of 1-Docosapentenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16), Sn1-Lpc (22:5)-W6",-1000.0,1000.0
+EX_pcholn225_hs_e,"Exchange of 1-Docosapentenoylglycerophosphocholine (Delta 7, 10, 13, 16, 19), Sn1-Lpc (22:5)-W3",-1000.0,1000.0
+EX_pcholn226_hs_e,"Exchange of 1-Docosahexenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16, 19), Sn1-Lpc (22:6)",-1000.0,1000.0
+EX_pcholn24_hs_e,"Exchange of 1-Lignocericylglycerophosphocholine (24:0), Lysopc A C24",-1000.0,1000.0
+EX_pcholn261_hs_e,Exchange of Lysopc A C26:1 (Delta 5),-1000.0,1000.0
+EX_pcholn281_hs_e,Exchange of Lysopc A C28:1 (Delta 5),-1000.0,1000.0
+EX_pcholn28_hs_e,Exchange of Lysopc A C28:0,-1000.0,1000.0
+EX_pcholole_hs_e,Exchange of 1-Oleoylglycerophosphocholine (Delta 9),-1000.0,1000.0
+EX_pcholpalm_hs_e,Exchange of 1-Palmitoylglycerophosphocholine,-1000.0,1000.0
+EX_pcholpalme_hs_e,Exchange of 1-Palmitoleoylglycerophosphocholine (Delta 9),-1000.0,1000.0
+EX_pcholste_hs_e,Exchange of 1-Stearoylglycerophosphocholine,-1000.0,1000.0
+EX_pcollg5hlys_e,Exchange of Erythro-5-Hydroxy-L-Lysinium,-1000.0,1000.0
+EX_pcreat_e,Exchange of Phosphocreatine,-1000.0,1000.0
+EX_pcresol_e,P-Cresol Exchange,-1000.0,1000.0
+EX_pcrn_e,Exchange of O-Propanoylcarnitine,-1000.0,1000.0
+EX_pcs_e,Exchange of P-Cresol Sulfate,-1000.0,1000.0
+EX_pe12_hs_e,Exchange of 1-Didecanoylglycerophosphoethanolamine (C12:0 Pe),-1000.0,1000.0
+EX_pe13_hs_e,Exchange of 1-Tridecanoylglycerophosphoethanolamine (C13:0 Pe),-1000.0,1000.0
+EX_pe14_hs_e,Exchange of 1-Myristoylglycerophosphoethanolamine (C14:0 Pe),-1000.0,1000.0
+EX_pe15_hs_e,Exchange of 1-Pentadecanoylglycerophosphoethanolamine (C15:0 Pe),-1000.0,1000.0
+EX_pe161_hs_e,"Exchange of 1-Hexadecenoylglycerophosphoethanolamine (C16:1 Pe, Delta 9)",-1000.0,1000.0
+EX_pe17_hs_e,Exchange of 1-Heptadecanoylglycerophosphoethanolamine (C17:0 Pe),-1000.0,1000.0
+EX_pe203_hs_e,"Exchange of 1-Eicosatrienoylglycerophosphoethanolamine (Delta 11, 14, 17), Lpe (20:3)",-1000.0,1000.0
+EX_pe224_hs_e,"Exchange of 1-Docosatetraenoyglycerophosphoethanolamine (22:4, Delta 7, 10, 13, 16)",-1000.0,1000.0
+EX_pe226_hs_e,"Exchange of 1-Docosahexenoylglyceroethanolamine (Delta 4, 7, 10, 13, 16, 19), Lpe (22:6)",-1000.0,1000.0
+EX_pe2linl_hs_e,Exchange of 2-Linoleoylglycerophosphoethanolamine,-1000.0,1000.0
+EX_pe_hs_e,Phosphatidylethanolamine (homo sapiens) exchange,-1000.0,1000.0
+EX_pear_hs_e,Exchange of 1-Arachidonoyl-Sn-Glycero-3-Phosphoethanolamine,-1000.0,1000.0
+EX_pect_e,Exchange reaction for pectins,-1000.0,1000.0
+EX_pectindchac_e,Exchange reaction for pectin-deoxycholic acid complex,-1000.0,1000.0
+EX_pectingchol_e,Exchange reaction for pectin-glycocholate complex,-1000.0,1000.0
+EX_pectintchol_e,Exchange reaction for pectin-taurocholic acid complex,-1000.0,1000.0
+EX_pedh203_hs_e,"Exchange of 1-Dihomo-Linolenoylglycerophosphoethanolamine (20:3, Delta 8, 11, 14)",-1000.0,1000.0
+EX_pelinl_hs_e,"Exchange of 1-Linoleoylglycerophosphoethanolamine (Delta 9, 12)",-1000.0,1000.0
+EX_pendecaeth_e,Exchange of Pentadecanoyl Thanolamide (C15:0),-1000.0,1000.0
+EX_peole_hs_e,Exchange of 1-Oleoylglycerophosphoethanolamine (Delta 9),-1000.0,1000.0
+EX_pep_e,Phosphoenolpyruvate exchange,-1000.0,1000.0
+EX_pepalm_hs_e,Exchange of 1-Palmitoylglycerophosphoethanolamine,-1000.0,1000.0
+EX_peplys_e,Peptidyl-L-lysine exchange,-1000.0,1000.0
+EX_perillyl_e,Perillyl alcohol exchange,-1000.0,1000.0
+EX_peste_hs_e,Exchange of 1-Stearoylglycerophosphoethanolamine,-1000.0,1000.0
+EX_pglyc_hs_e,Phosphatidylglycerol (homo sapiens) exchange,-1000.0,1000.0
+EX_phacgly_e,Exchange of Phenylacetylglycine,-1000.0,1000.0
+EX_phe__L_e,L-Phenylalanine exchange,-1000.0,1000.0
+EX_pheacgln_e,Alpha-N-Phenylacetyl-L-glutamine exchange,-1000.0,1000.0
+EX_pheacgly_e,Exchange of Phenylacetylglycine,-1000.0,1000.0
+EX_pheasnmet_e,Exchange of PheAsnMet,-1000.0,1000.0
+EX_pheasp_e,Exchange of PheAsp,-1000.0,1000.0
+EX_pheglnphe_e,Exchange of PheGlnPhe,-1000.0,1000.0
+EX_pheleu_e,Exchange of PheLeu,-1000.0,1000.0
+EX_pheleuasp_e,Exchange of PheLeuAsp,-1000.0,1000.0
+EX_pheleuhis_e,Exchange of PheLeuHis,-1000.0,1000.0
+EX_phelysala_e,Exchange of PheLysAla,-1000.0,1000.0
+EX_phelyspro_e,Exchange of PheLysPro,-1000.0,1000.0
+EX_pheme_e,Protoheme exchange,-1000.0,1000.0
+EX_phephe_e,Exchange of PhePhe,-1000.0,1000.0
+EX_phepheasn_e,Exchange of PhePheAsn,-1000.0,1000.0
+EX_phephethr_e,Exchange of PhePheThr,-1000.0,1000.0
+EX_pheproarg_e,Exchange of PheProArg,-1000.0,1000.0
+EX_phesertrp_e,Exchange of PheSerTrp,-1000.0,1000.0
+EX_phethrlys_e,Exchange of PheThrLys,-1000.0,1000.0
+EX_phetrpleu_e,Exchange of PheTrpLeu,-1000.0,1000.0
+EX_phetyr_e,Exchange of Phetyr,-1000.0,1000.0
+EX_phetyrgln_e,Exchange of PhetyrGln,-1000.0,1000.0
+EX_phetyrlys_e,Exchange of PhetyrLys,-1000.0,1000.0
+EX_phlac_e,Exchange of Phenyl Lactate,-1000.0,1000.0
+EX_phllqne_e,EX phyQ e,-1000.0,1000.0
+EX_phpyr_e,Exchange of Phenylpyruvate,-1000.0,1000.0
+EX_phyt_e,Phytanic acid exchange,-1000.0,1000.0
+EX_pi_e,Phosphate exchange,-1000.0,1000.0
+EX_pmeth_e,Exchange of Palmitoylethanolamide,-1000.0,1000.0
+EX_pmtcrn_e,Exchange of L-Palmitoylcarnitine,-1000.0,1000.0
+EX_pnto__R_e,(R)-Pantothenate exchange,-1000.0,1000.0
+EX_ppa_e,Propionate exchange,-1000.0,1000.0
+EX_ppbng_e,Exchange of Porphobilinogen,-1000.0,1000.0
+EX_ppi_e,Diphosphate exchange,-1000.0,1000.0
+EX_ppiogly_e,Exchange of Propionyl-Glycine,-1000.0,1000.0
+EX_ppp9_e,Exchange of Protoporphyrin,-1000.0,1000.0
+EX_prgnlone_e,Exchange of Pregnenolone,-1000.0,1000.0
+EX_prgnlones_e,Exchange of Pregnenolone Sulfate,-1000.0,1000.0
+EX_prgstrn_e,Progesterone exchange,-1000.0,1000.0
+EX_prist_e,Exchange of Pristanic Acid,-1000.0,1000.0
+EX_pro__L_e,L-Proline exchange,-1000.0,1000.0
+EX_proargasp_e,Exchange of ProArgAsp,-1000.0,1000.0
+EX_proargcys_e,Exchange of ProArgCys,-1000.0,1000.0
+EX_proasncys_e,Exchange of ProAsnCys,-1000.0,1000.0
+EX_procys_e,Exchange of ProCys,-1000.0,1000.0
+EX_profvs_e,Exchnage reaction for des-isoproylpropionic-acid-fluvastatin in hepatic vein,-1000.0,1000.0
+EX_proglnpro_e,Exchange of ProGlnPro,-1000.0,1000.0
+EX_proglulys_e,Exchange of ProGluLys,-1000.0,1000.0
+EX_progly_e,L-Prolinylglycine exchange,-1000.0,1000.0
+EX_prohis_e,Exchange of ProHis,-1000.0,1000.0
+EX_prohistyr_e,Exchange of ProHistyr,-1000.0,1000.0
+EX_proleuarg_e,Exchange of ProLeuArg,-1000.0,1000.0
+EX_prolyspro_e,Exchange of ProLysPro,-1000.0,1000.0
+EX_prophe_e,Exchange of ProPhe,-1000.0,1000.0
+EX_proproarg_e,Exchange of ProProArg,-1000.0,1000.0
+EX_propropro_e,Exchange of ProProPro,-1000.0,1000.0
+EX_prostgd2_e,Prostaglandin D2 exchange,-1000.0,1000.0
+EX_prostge1_e,Prostaglandin E1 exchange,-1000.0,1000.0
+EX_prostge2_e,Prostaglandin E2 exchange,-1000.0,1000.0
+EX_prostgf2_e,Prostaglandin F2alpha exchange,-1000.0,1000.0
+EX_prostgh2_e,Prostaglandin H2(1-) exchange,-1000.0,1000.0
+EX_prostgi2_e,Prostaglandin I2(1-) exchange,-1000.0,1000.0
+EX_protrplys_e,Exchange of ProTrpLys,-1000.0,1000.0
+EX_protrpthr_e,Exchange of ProTrpThr,-1000.0,1000.0
+EX_provalgln_e,Exchange of ProValGln,-1000.0,1000.0
+EX_prpp_e,Exchange of 5-O-phosphonato-alpha-D-ribofuranosyl diphosphate(5-),-1000.0,1000.0
+EX_ps_hs_e,Phosphatidylserine (homo sapiens) exchange,-1000.0,1000.0
+EX_pser__L_e,O-Phospho-L-serine exchange,-1000.0,1000.0
+EX_psyl_e,Exchange reaction for psyllium,-1000.0,1000.0
+EX_psylchol_e,Exchange reaction for psyllium-glycocholic acid complex,-1000.0,1000.0
+EX_psyltchol_e,Exchange reaction for psyllium-taurocholic acid complex,-1000.0,1000.0
+EX_psyltdechol_e,Exchange reaction for psyllium-taurodeoxycholic acid complex,-1000.0,1000.0
+EX_ptdca_e,Pentadecanoate exchange,-1000.0,1000.0
+EX_ptrc_e,Putrescine exchange,-1000.0,1000.0
+EX_ptth_e,Exchange reaction for ptth,-1000.0,1000.0
+EX_ptvst_e,Exchange reaction for pitavastatin in intestinal lumen,-1000.0,1000.0
+EX_ptvstlac_e,Exchange reaction for pravastatin-lactone in hepatic vein,-1000.0,1000.0
+EX_ptvstm13_e,EX ptvstm13(e),-1000.0,1000.0
+EX_ptvstm3_e,Exchange reaction for pitavastatin-M3 in bile,-1000.0,1000.0
+EX_pvs_e,Exchange reaction for pravastatin in intestinal lumen,-1000.0,1000.0
+EX_pvsgluc_e,Exchange reaction of pravastatin glucuronide in hepatic vein,-1000.0,1000.0
+EX_pydam_e,Pyridoxamine exchange,-1000.0,1000.0
+EX_pydx5p_e,Exchange of pyridoxal 5-phosphate(2-),-1000.0,1000.0
+EX_pydx_e,Pyridoxal exchange,-1000.0,1000.0
+EX_pydxn_e,Pyridoxine exchange,-1000.0,1000.0
+EX_pyr_e,Pyruvate exchange,-1000.0,1000.0
+EX_q10_e,Exchange reaction for ubiquinone,-1000.0,1000.0
+EX_q10h2_e,Exchange reaction for ubiquinol,-1000.0,1000.0
+EX_quln_e,Exchange of Quinolinic Acid,-1000.0,1000.0
+EX_rbl__D_e,EX rbl D[e],-1000.0,1000.0
+EX_rbt_e,Ribitol exchange,-1000.0,1000.0
+EX_retfa_e,Fatty acid retinol exchange,-1000.0,1000.0
+EX_retinal_e,Exchange of Retinal,-1000.0,1000.0
+EX_retinol_9_cis_e,9-cis-retinol exchange,-1000.0,1000.0
+EX_retinol_cis_11_e,Cis-11-retinol exchange,-1000.0,1000.0
+EX_retinol_e,Retinol exchange,-1000.0,1000.0
+EX_retn_e,Retinoate exchange,-1000.0,1000.0
+EX_retnglc_e,Retinoyl glucuronide exchange,-1000.0,1000.0
+EX_rib__D_e,D-Ribose exchange,-1000.0,1000.0
+EX_ribflv_e,Riboflavin exchange,-1000.0,1000.0
+EX_rsv_e,Exchange reaction for rosuvastatin in intestinal lumen,-1000.0,1000.0
+EX_rsvlac_e,Exchange reaction for rosuvastatin-5S-lactone in bile,-1000.0,1000.0
+EX_s2l2fn2m2masn_e,PA6 exchange,-1000.0,1000.0
+EX_s2l2n2m2m_e,Exchange of De-Fuc Form of Pa6 (W/O Peptide Linkage),-1000.0,1000.0
+EX_s2l2n2m2masn_e,De-Fuc form of PA6 exchange,-1000.0,1000.0
+EX_s3meacmp_e,Exchange reaction for sulphate-conjugate-3-methoxy-acetaminophen in hepatic vein,-1000.0,1000.0
+EX_sTn_antigen_e,Exchange of Sialyl-Tn Antigen,-1000.0,1000.0
+EX_saccrp__L_e,Exchange of L-Saccharopinate,-1000.0,1000.0
+EX_sarcs_e,Sarcosine exchange,-1000.0,1000.0
+EX_sbt__D_e,D-Sorbitol exchange,-1000.0,1000.0
+EX_sebacid_e,Exchange of Sebacic Acid,-1000.0,1000.0
+EX_ser__L_e,L-Serine exchange,-1000.0,1000.0
+EX_serargala_e,Exchange of SerArgAla,-1000.0,1000.0
+EX_serargtrp_e,Exchange of SerArgTrp,-1000.0,1000.0
+EX_sercysarg_e,Exchange of SerCysArg,-1000.0,1000.0
+EX_serglyglu_e,Exchange of SerGlyGlu,-1000.0,1000.0
+EX_serlyshis_e,Exchange of SerLysHis,-1000.0,1000.0
+EX_serphelys_e,Exchange of SerPheLys,-1000.0,1000.0
+EX_sertrphis_e,Exchange of SerTrpHis,-1000.0,1000.0
+EX_sl__L_e,L-sulfolactate exchange,-1000.0,1000.0
+EX_slfcys_e,Exchange reaction for sulfocysteine,-1000.0,1000.0
+EX_smv_e,Exchange reaction for simvastatin in intestinal lumen,-1000.0,1000.0
+EX_smvacid_e,Exchange reaction for simvastatin dihydroxy acid form in hepatic vein,-1000.0,1000.0
+EX_so3_e,Sulfite exchange,-1000.0,1000.0
+EX_so4_e,Sulfate exchange,-1000.0,1000.0
+EX_spc_hs_e,Sphingosylphosphorylcholine (homo sapiens) exchange,-1000.0,1000.0
+EX_sph1p_e,Sphinganine 1-phosphate exchange,-1000.0,1000.0
+EX_sphgn_e,Exchange of Sphinganine,-1000.0,1000.0
+EX_sphings_e,Exchange of Sphingosine,-1000.0,1000.0
+EX_sphmyln180241_hs_e,Exchange of Sphingomyelin (D18:0/24:1),-1000.0,1000.0
+EX_sphmyln18114_hs_e,Exchange of Sphingomyelin (D18:1/14:0),-1000.0,1000.0
+EX_sphmyln18115_hs_e,Exchange of Sphingomyelin (D18:1/15:0),-1000.0,1000.0
+EX_sphmyln181161_hs_e,Exchange of Sphingomyelin (D18:1/16:1),-1000.0,1000.0
+EX_sphmyln18116_hs_e,Exchange of Sphingomyelin (D18:1/16:0),-1000.0,1000.0
+EX_sphmyln18117_hs_e,Exchange of Sphingomyelin (D18:1/17:0),-1000.0,1000.0
+EX_sphmyln181181_hs_e,Exchange of Sphingomyelin (D18:1/18:1),-1000.0,1000.0
+EX_sphmyln18118_hs_e,Exchange of Sphingomyelin (D18:1/18:0),-1000.0,1000.0
+EX_sphmyln181201_hs_e,Exchange of Sphingomyelin (D18:1/20:1),-1000.0,1000.0
+EX_sphmyln18120_hs_e,Exchange of Sphingomyelin (D18:1/20:0),-1000.0,1000.0
+EX_sphmyln18121_hs_e,Exchange of Sphingomyelin (D18:1/21:0),-1000.0,1000.0
+EX_sphmyln181221_hs_e,Exchange of Sphingomyelin (D18:1/22:1),-1000.0,1000.0
+EX_sphmyln18122_hs_e,Exchange of Sphingomyelin (D18:1/22:0),-1000.0,1000.0
+EX_sphmyln18123_hs_e,Exchange of Sphingomyelin (D18:1/23:0),-1000.0,1000.0
+EX_sphmyln1824_hs_e,Exchange of Sphingomyelin (D18:0/24:0),-1000.0,1000.0
+EX_sphmyln1825_hs_e,Exchange of Sphingomyelin (D18:0/25:0),-1000.0,1000.0
+EX_sphmyln_hs_e,Exchange of Sphingomyelin,-1000.0,1000.0
+EX_sphs1p_e,Sphingosine 1-phosphate exchange,-1000.0,1000.0
+EX_spmd_e,Spermidine exchange,-1000.0,1000.0
+EX_sprm_e,Spermine exchange,-1000.0,1000.0
+EX_sql_e,Exchange of Squalene,-1000.0,1000.0
+EX_srtn_e,Serotonin exchange,-1000.0,1000.0
+EX_stacmp_e,Exchange reaction for sulphate-thiomethyl-acetaminophen conjugate in hepatic vein,-1000.0,1000.0
+EX_stcrn_e,Exchange of O-Octadecanoyl-R-Carnitine,-1000.0,1000.0
+EX_steeth_e,Exchange of Stearoyl Ethanolamide,-1000.0,1000.0
+EX_strch1_e,"Starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]}) exchange",-1000.0,1000.0
+EX_strch2_e,"Starch, structure 2 (1,6-{2[1,4-Glc], [1,4-Glc]}) exchange",-1000.0,1000.0
+EX_strdnc_e,Stearidonic acid exchange,-1000.0,1000.0
+EX_subeac_e,Exchange of Suberic Acid,-1000.0,1000.0
+EX_subgly_e,Exchange of Suberyl-Glycine,-1000.0,1000.0
+EX_sucaceto_e,Exchange of Succinylacetone,-1000.0,1000.0
+EX_succ_e,Succinate exchange,-1000.0,1000.0
+EX_sucr_e,Sucrose exchange,-1000.0,1000.0
+EX_sucsal_e,Exchange of Succinic Semialdehyde,-1000.0,1000.0
+EX_sulpacmp_e,Exchange reaction for acetaminophen-sulphate in hepatic vein,-1000.0,1000.0
+EX_tacr_e,Exchange reaction for tacrolimus in intestinal lumen,-1000.0,1000.0
+EX_tag__D_e,D Tagatose exchange,-1000.0,1000.0
+EX_tag_hs_e,Triacylglycerol (homo sapiens) exchange,-1000.0,1000.0
+EX_taur_e,Taurine exchange,-1000.0,1000.0
+EX_tauribup__S_e,Exchange reaction for taurine conjugate of S-ibuprofen in hepatic vein,-1000.0,1000.0
+EX_taxol_e,Paclitaxel exchange,-1000.0,1000.0
+EX_tca3s_e,EX tca3s(e),-1000.0,1000.0
+EX_tcdca3s_e,EX tcdca3s(e),-1000.0,1000.0
+EX_tchola_e,Taurocholic acid exchange,-1000.0,1000.0
+EX_tcynt_e,Thiocyanate exchange,-1000.0,1000.0
+EX_tdca3s_e,EX tdca3s(e),-1000.0,1000.0
+EX_tdchola_e,Taurochenodeoxycholate exchange,-1000.0,1000.0
+EX_tdechola_e,Exchange reaction for Taurodeoxycholic acid,-1000.0,1000.0
+EX_tetdec2crn_e,Exchange of Tetradecadienoyl Carnitine,-1000.0,1000.0
+EX_tetdeca511ac_e,"Exchange of Cis-5, 8-Tetradecadienoic Acid",-1000.0,1000.0
+EX_tetdecaeth_e,"Exchange of C14:0-Ethanolamide, Tetradecanoyl Ethanolamide",-1000.0,1000.0
+EX_tetdece1crn_e,Exchange of Tetradecenoyl Carnitine,-1000.0,1000.0
+EX_tethex3_e,"Tetracosahexaenoic acid, n-3 exchange",-1000.0,1000.0
+EX_tetpent3_e,"Tetracosapentaenoic acid, n-3 exchange",-1000.0,1000.0
+EX_tetpent6_e,"Tetracosapentaenoic acid, n-6 exchange",-1000.0,1000.0
+EX_tettet6_e,Tetracosatetraenoic acid n-6 exchange,-1000.0,1000.0
+EX_thbpt_e,"Exchange of 5,6,7,8-Tetrahydrobiopterin",-1000.0,1000.0
+EX_thcholstoic_e,"Exchange of 3Alpha, 7Alpha, 12Alpha-Trihydroxy-5Beta-Cholestanoate",-1000.0,1000.0
+EX_thexdd_e,"Exchange of 7Z, 10Z-Hexadecadienoic Acid",-1000.0,1000.0
+EX_thf_e,"5,6,7,8-Tetrahydrofolate exchange",-1000.0,1000.0
+EX_thm_e,Thiamin exchange,-1000.0,1000.0
+EX_thmmp_e,Thiamin monophosphate exchange,-1000.0,1000.0
+EX_thmtp_e,Thiamin triphosphate exchange,-1000.0,1000.0
+EX_thr__L_e,L-Threonine exchange,-1000.0,1000.0
+EX_thrargtyr_e,Exchange of ThrArgtyr,-1000.0,1000.0
+EX_thrasntyr_e,Exchange of ThrAsntyr,-1000.0,1000.0
+EX_thrfvs_e,Exchange reaction for threo-isomer of fluvastain in hepatic vein,-1000.0,1000.0
+EX_thrglnglu_e,Exchange of ThrGlnGlu,-1000.0,1000.0
+EX_thrglntyr_e,Exchange of ThrGlntyr,-1000.0,1000.0
+EX_thrhishis_e,Exchange of ThrHisHis,-1000.0,1000.0
+EX_thrilearg_e,Exchange of ThrIleArg,-1000.0,1000.0
+EX_thrmetarg_e,Exchange of ThrMetArg,-1000.0,1000.0
+EX_thrnt_e,Exchange of L-Threonate,-1000.0,1000.0
+EX_thrphearg_e,Exchange of ThrPheArg,-1000.0,1000.0
+EX_thrserarg_e,Exchange of ThrSerArg,-1000.0,1000.0
+EX_thrthrarg_e,Exchange of ThrThrArg,-1000.0,1000.0
+EX_thrtyrmet_e,Exchange of ThrtyrMet,-1000.0,1000.0
+EX_thym_e,Thymine exchange,-1000.0,1000.0
+EX_thymd_e,Thymidine exchange,-1000.0,1000.0
+EX_thyochol_e,EX thyochol(e),-1000.0,1000.0
+EX_thyox__L_e,L-Thyroxine exchange,-1000.0,1000.0
+EX_tiggly_e,Exchange of Tiglylglycine,-1000.0,1000.0
+EX_tlacfvs_e,Exchange reaction for trans-lactone-fluvastatin in hepatic vein,-1000.0,1000.0
+EX_tmd_e,Exchange reaction for torasemide in intestinal lumen,-1000.0,1000.0
+EX_tmdm1_e,Exchange reaction for Torasemide-M1 in hepatic vein,-1000.0,1000.0
+EX_tmdm3_e,Exchange reaction for Torasemide-M3 in hepatic vein,-1000.0,1000.0
+EX_tmdm5_e,Exchange reaction for Torasemide-M5 in hepatic vein,-1000.0,1000.0
+EX_tmlys_e,"Exchange of N6, N6, N6-Trimethyl-L-Lysine",-1000.0,1000.0
+EX_tmndnc_e,Timnodonic acid exchange,-1000.0,1000.0
+EX_tolbutamide_e,Tolbutamide exchange,-1000.0,1000.0
+EX_tre_e,Trehalose exchange,-1000.0,1000.0
+EX_trideceth_e,Exchange of Tridecanoyl Thanolamide (C13:0),-1000.0,1000.0
+EX_triodthy_e,Triiodothyronine exchange,-1000.0,1000.0
+EX_triodthysuf_e,Triiodothyronine sulfate exchange,-1000.0,1000.0
+EX_tripvs_e,Exchange reaction of triol metabolite of pravastatin in hepatic vein,-1000.0,1000.0
+EX_trp__L_e,L-Tryptophan exchange,-1000.0,1000.0
+EX_trpalapro_e,Exchange of TrpAlaPro,-1000.0,1000.0
+EX_trpargala_e,Exchange of TrpArgAla,-1000.0,1000.0
+EX_trpaspasp_e,Exchange of TrpAspAsp,-1000.0,1000.0
+EX_trpglngln_e,Exchange of TrpGlnGln,-1000.0,1000.0
+EX_trpglugly_e,Exchange of TrpGluGly,-1000.0,1000.0
+EX_trpgluleu_e,Exchange of TrpGluLeu,-1000.0,1000.0
+EX_trpglupro_e,Exchange of TrpGluPro,-1000.0,1000.0
+EX_trpglutyr_e,Exchange of TrpGlutyr,-1000.0,1000.0
+EX_trpglyasp_e,Exchange of TrpGlyAsp,-1000.0,1000.0
+EX_trpglyleu_e,Exchange of TrpGlyLeu,-1000.0,1000.0
+EX_trpglyphe_e,Exchange of TrpGlyPhe,-1000.0,1000.0
+EX_trpglyval_e,Exchange of TrpGlyVal,-1000.0,1000.0
+EX_trphismet_e,Exchange of TrpHisMet,-1000.0,1000.0
+EX_trpilelys_e,Exchange of TrpIleLys,-1000.0,1000.0
+EX_trpiletrp_e,Exchange of TrpIleTrp,-1000.0,1000.0
+EX_trpleuval_e,Exchange of TrpLeuVal,-1000.0,1000.0
+EX_trplys_e,Exchange of TrpLys,-1000.0,1000.0
+EX_trpmetarg_e,Exchange of TrpMetArg,-1000.0,1000.0
+EX_trpmetval_e,Exchange of TrpMetVal,-1000.0,1000.0
+EX_trpphe_e,Exchange of TrpPhe,-1000.0,1000.0
+EX_trpprogly_e,Exchange of TrpProGly,-1000.0,1000.0
+EX_trpproleu_e,Exchange of TrpProLeu,-1000.0,1000.0
+EX_trpproval_e,Exchange of TrpProVal,-1000.0,1000.0
+EX_trpsertyr_e,Exchange of TrpSertyr,-1000.0,1000.0
+EX_trpthrglu_e,Exchange of TrpThrGlu,-1000.0,1000.0
+EX_trpthrile_e,Exchange of TrpThrIle,-1000.0,1000.0
+EX_trpthrtyr_e,Exchange of TrpThrtyr,-1000.0,1000.0
+EX_trptyrgln_e,Exchange of TrptyrGln,-1000.0,1000.0
+EX_trptyrtyr_e,Exchange of Trptyrtyr,-1000.0,1000.0
+EX_trpvalasp_e,Exchange of TrpValAsp,-1000.0,1000.0
+EX_trypta_e,Exchange of Tryptamine,-1000.0,1000.0
+EX_tsacmgluc_e,Exchange reaction for thiomethyl-sulphoxide-acetaminophen-glucuronide in hepatic vein,-1000.0,1000.0
+EX_tsacmsul_e,Exchange reaction for thiomethyl-sulphoxide-acetaminophen-sulphate in hepatic vein,-1000.0,1000.0
+EX_tststerone_e,Testosterone exchange,-1000.0,1000.0
+EX_tststeroneglc_e,Testosterone glucuronide exchange,-1000.0,1000.0
+EX_tststerones_e,Testosterone sulfate exchange,-1000.0,1000.0
+EX_tsul_e,Thiosulfate exchange,-1000.0,1000.0
+EX_ttdca_e,Tetradecanoate (n-C14:0) exchange,-1000.0,1000.0
+EX_ttdcea_e,Tetradecenoate (n-C14:1) exchange,-1000.0,1000.0
+EX_ttdcrn_e,Exchange reaction for myristoyl carnitine,-1000.0,1000.0
+EX_tudca3s_e,EX tudca3s(e),-1000.0,1000.0
+EX_txa2_e,Thromboxane A2 exchange,-1000.0,1000.0
+EX_txb2_e,Exchange of Thromboxane B2,-1000.0,1000.0
+EX_tym_e,Tyramine exchange,-1000.0,1000.0
+EX_tymsf_e,Tyramine O-sulfate exchange,-1000.0,1000.0
+EX_tyr__L_e,L-Tyrosine exchange,-1000.0,1000.0
+EX_tyrala_e,Exchange of TyrAla,-1000.0,1000.0
+EX_tyralaphe_e,Exchange of TyrAlaPhe,-1000.0,1000.0
+EX_tyrargglu_e,Exchange of TyrArgGlu,-1000.0,1000.0
+EX_tyrargser_e,Exchange of TyrArgSer,-1000.0,1000.0
+EX_tyrasparg_e,Exchange of TyrAspArg,-1000.0,1000.0
+EX_tyrcysgly_e,Exchange of TyrCysGly,-1000.0,1000.0
+EX_tyrcysthr_e,Exchange of TyrCysThr,-1000.0,1000.0
+EX_tyrglu_e,Exchange of TyrGlu,-1000.0,1000.0
+EX_tyrleuarg_e,Exchange of TyrLeuArg,-1000.0,1000.0
+EX_tyrphetyr_e,Exchange of TyrPhetyr,-1000.0,1000.0
+EX_tyrthr_e,Exchange of TyrThr,-1000.0,1000.0
+EX_tyrtrpphe_e,Exchange of TyrTrpPhe,-1000.0,1000.0
+EX_tyrtyr_e,Exchange of Tyrtyr,-1000.0,1000.0
+EX_tyrvalmet_e,Exchange of TyrValMet,-1000.0,1000.0
+EX_uchol_e,EX uchol(e),-1000.0,1000.0
+EX_udca3s_e,EX udca3s(e),-1000.0,1000.0
+EX_udp_e,UDP exchange,-1000.0,1000.0
+EX_udpg_e,UDPglucose exchange,-1000.0,1000.0
+EX_udpgal_e,UDPgalactose exchange,-1000.0,1000.0
+EX_udpglcur_e,UDP-D-glucuronate exchange,-1000.0,1000.0
+EX_ump_e,UMP exchange,-1000.0,1000.0
+EX_ura_e,Uracil exchange,-1000.0,1000.0
+EX_urate_e,Urate exchange,-1000.0,1000.0
+EX_urcan_e,Exchange of Urocanate,-1000.0,1000.0
+EX_urea_e,Urea exchange,-1000.0,1000.0
+EX_uri_e,Uridine exchange,-1000.0,1000.0
+EX_utp_e,UTP exchange,-1000.0,1000.0
+EX_vacc_e,Vaccenic acid exchange,-1000.0,1000.0
+EX_val__L_e,L-Valine exchange,-1000.0,1000.0
+EX_valarggly_e,Exchange of ValArgGly,-1000.0,1000.0
+EX_valhisasn_e,Exchange of ValHisAsn,-1000.0,1000.0
+EX_valleuphe_e,Exchange of ValLeuPhe,-1000.0,1000.0
+EX_vallystyr_e,Exchange of ValLystyr,-1000.0,1000.0
+EX_valphearg_e,Exchange of ValPheArg,-1000.0,1000.0
+EX_valprotrp_e,Exchange of ValProTrp,-1000.0,1000.0
+EX_valserarg_e,Exchange of ValSerArg,-1000.0,1000.0
+EX_valtrpphe_e,Exchange of ValTrpPhe,-1000.0,1000.0
+EX_valtrpval_e,Exchange of ValTrpVal,-1000.0,1000.0
+EX_valval_e,Exchange of ValVal,-1000.0,1000.0
+EX_vanillac_e,Exchange of Vanil-Lactate,-1000.0,1000.0
+EX_vitd3_e,Vitamin D3 exchange,-1000.0,1000.0
+EX_wharachd_e,20-hydroxy-arachidonate exchange,-1000.0,1000.0
+EX_whddca_e,Omega hydroxy dodecanoate (n-C12:0) exchange,-1000.0,1000.0
+EX_whhdca_e,Omega hydroxy hexadecanoate (n-C16:0) exchange,-1000.0,1000.0
+EX_whtststerone_e,W hydroxy testosterone exchange,-1000.0,1000.0
+EX_whttdca_e,Omega hydroxy tetradecanoate (n-C14:0) exchange,-1000.0,1000.0
+EX_xan_e,Xanthine exchange,-1000.0,1000.0
+EX_xmp_e,Xanthosine 5'-phosphate exchange,-1000.0,1000.0
+EX_xol24oh_e,Exchange of (24S)-24-Hydroxycholesterol,-1000.0,1000.0
+EX_xol25oh_e,Exchange of 25-Hydroxycholesterol,-1000.0,1000.0
+EX_xol27oh_e,Exchange of 26-Hydroxycholesterol,-1000.0,1000.0
+EX_xol7ah3_e,"Exchange of 5Beta-Cholestane-3Alpha, 7Alpha, 26-Triol",-1000.0,1000.0
+EX_xol7aone_e,Exchange of 7Alpha-Hydroxycholest-4-En-3-One,-1000.0,1000.0
+EX_xoldiolone_e,"Exchange of 7Alpha, 12Alpha-Dihydroxycholest-4-En-3-One",-1000.0,1000.0
+EX_xolest181_hs_e,"Exchange of 1-Vaccenoyl-Cholesterol, Cholesterol-Ester (18:1, Delta 11)",-1000.0,1000.0
+EX_xolest182_hs_e,"Exchange of 1-Linoleoyl-Cholesterol, Cholesterol-Ester (18:2, Delta 9, 12)",-1000.0,1000.0
+EX_xolest183_hs_e,"Exchange of 1-Gamma-Linolenoyl-Cholesterol, Cholesterol-Ester (18:3, Delta 6, 9, 12)",-1000.0,1000.0
+EX_xolest204_hs_e,"Exchange of Cholesteryl Arachidonate, Cholesterol-Ester (20:4, Delta 5, 8, 11, 14)",-1000.0,1000.0
+EX_xolest205_hs_e,"Exchange of 1-Timnodnoyl-Cholesterol, Cholesterol-Ester (20:5, Delta 5, 8, 11, 14, 17)",-1000.0,1000.0
+EX_xolest226_hs_e,"Exchange of Cholesteryl Docosahexanoate, Cholesterol-Ester (22:6, Delta 4, 7, 10, 13, 16, 19)",-1000.0,1000.0
+EX_xolest2_hs_e,Cholesterol ester (from R2) exchange,-1000.0,1000.0
+EX_xolest_hs_e,Cholesterol ester exchange,-1000.0,1000.0
+EX_xoltri24_e,"7-alpha,24(S)-Dihydroxycholesterol exchange",-1000.0,1000.0
+EX_xoltri25_e,"7-alpha,25-Dihydroxycholesterol exchange",-1000.0,1000.0
+EX_xoltri27_e,"7-alpha,27-Dihydroxycholesterol exchange",-1000.0,1000.0
+EX_xtsn_e,Xanthosine exchange,-1000.0,1000.0
+EX_xyl__D_e,D-Xylose exchange,-1000.0,1000.0
+EX_xylt_e,Xylitol exchange,-1000.0,1000.0
+EX_xylu__D_e,Exchange of Xylu D,-1000.0,1000.0
+EX_xylu__L_e,L-Xylulose exchange,-1000.0,1000.0
+EX_yvite_e,Gamma-Tocopherol exchange,-1000.0,1000.0
+EX_zn2_e,name,-1000.0,1000.0
