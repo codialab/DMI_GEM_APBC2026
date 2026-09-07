@@ -1,4 +1,4 @@
-In this repository, we store the code and processed data for "Uncertainty-aware integration of deuterium metabolic imaging with genome-scale metabolic modeling reveals diet-associated feasible-space remodeling in mouse skeletal muscle", a paper of the APBC 2026 conference proceeding. This study integrates deuterium metabolic imaging (DMI), transcriptomics, kinetic model fitting, and genome-scale metabolic modelling (GEM) to infer metabolic fluxes of mouse skeletal muscle.
+In this repository, we stored the code and processed data for "Uncertainty-aware integration of deuterium metabolic imaging with genome-scale metabolic modeling reveals diet-associated feasible-space remodeling in mouse skeletal muscle", a paper of the APBC 2026 conference proceeding. This study integrates deuterium metabolic imaging (DMI), transcriptomics, kinetic model fitting, and genome-scale metabolic modelling (GEM) to infer metabolic fluxes of mouse skeletal muscle.
 
 ## Repository structure
 
